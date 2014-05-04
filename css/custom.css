@@ -2,3 +2,32 @@
 {
 display:none;
 }
+.center
+{
+text-align:center;
+}
+.left
+{
+	float:left;
+}
+.clear
+{
+	clear:both;
+}
+.right
+{
+	float:right;
+}
+
+
+
+.form_field
+{
+  margin: 1em 0;
+}
+.input_field
+{
+	padding: 0.5em;
+	width: 100%;
+	margin: 1em 0;
+}
