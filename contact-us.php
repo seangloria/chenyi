@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Search</title>
+		<title>Contact Us</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -25,9 +25,9 @@
 		<link rel="stylesheet" href="css/custom.css" />
 		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><link rel="stylesheet" href="css/ie8.css" /><![endif]-->
 	</head>
-	<body class="no-sidebar">
+	<body class="right-sidebar">
 
-		<!-- Header Wrapper -->
+				<!-- Header Wrapper -->
 			<div id="header-wrapper">
 				<div class="container">
 					<div class="row">
@@ -42,9 +42,9 @@
 									<!-- Nav -->
 										<nav id="nav">
 											<ul>
-												<li><a href="index.html">Home</a></li>
+												<li><a href="index.php">Home</a></li>
 												<li>
-													<a href="about-us.html">About Us</a>
+													<a href="about-us.php">About Us</a>
 												<!-- 	<ul>
 														<li><a href="#">Lorem ipsum dolor</a></li>
 														<li><a href="#">Magna phasellus</a></li>
@@ -60,8 +60,8 @@
 														<li><a href="#">Veroeros feugiat</a></li>
 													</ul> -->
 												</li>
-											    <li class="current_page_item"> <a href="search.html">Search</a></li>
-												<li><a href="contact-us.html">Contact Us</a></li>
+											    <li><a href="search.php">Search</a></li>
+												<li class="current_page_item"><a href="contact-us.php">Contact Us</a></li>
 											
 											</ul>
 										</nav>
@@ -135,7 +135,7 @@
 					</div>
 				</div>
 			</div>
-		
+	
 		<!-- Main Wrapper -->
 			<div id="main-wrapper">
 				<div class="container">
@@ -145,32 +145,62 @@
 							<!-- Portfolio -->
 								<section>
 								<header class="major">
-										<h2>Search</h2>
+										<h2>Contact Us</h2>
 									</header>
 									<div>
 										<div class="row">
-											<div class="12u skel-cell-important">
-											<article class="box is-post">
+											<div class="8u skel-cell-important">
+												<article class="box is-post">
 												<!-- Search form -->
-												<form action="search.php" name="search" method="post">
-														<div class="row">
-															<div class="6u">
-																<label for="herb" class="form_field">Herb Name (e.g. U00533; Salvia deserta Schang; Xinjiangshuweicao):</label> 
+												<form action="contact-us.php" id="contact-us-form" name="search" method="post">
+												<div id="contact-us-form-error" class="error">
+											
+												</div>
+												<div class="success">
+													<?php
+														try {
+															if (isset($_POST["submit"])) {
+																$from = "chenyi@yu-lab.org"; // sender
+																$subject = "Contact from ".$_POST["name"];
+																// message lines should not exceed 70 characters (PHP rule), so wrap it
+																$message = wordwrap("phone: ".$_POST["phone"]."\r\n".$_POST["message"], 70);
+																// send mail
+																mail("dalao5000@hotmail.com",$subject,$message,"From: ".$from."\r\n"
+																.'Reply-To: '.$_POST["email"] . "\r\n");
+																echo "Thank you for contacting us, we will reply to you shortly.";
+															} 
+														}
+														catch (Exception $e) {
+															echo 'Caught exception: ',  $e->getMessage(), "\n";
+														}
+														
+													 
+												?>
+												</div>
+														<div>
+															<div>
+																<label for="name" class="form_field">Name:</label> 
 															</div>
-															<div class="6u">
-														    	<input type="text" class="input_field" name="herb" id="herb">
+															<div >
+														    	<input type="text" class="input_field" name="name" >
 															</div>
-														    <div class="6u">
-																<label for="email">Compound Name</label>
+														    <div>
+																<label for="email">Email</label>
 															</div>
-															<div class="6u">
-														    	<input type="text" class="input_field" name="compound" id="compound">		
+															<div>
+														    	<input type="text" id="email-field" class="input_field" name="email">		
 															</div>
-														    <div class="6u">
-																<label for="url">Protein Name (e.g. P04637, P53_HUMAN, P53):</label> 
+														    <div>
+																<label for="phone">Phone:</label> 
 															</div>
-															<div class="6u">
-																<input type="text" class="input_field" id="protein" name="protein">	
+															<div >
+																<input type="text" class="input_field"  name="phone">	
+															</div>
+															 <div >
+																<label for="message">Message:</label> 
+															</div>
+															<div>
+																<textarea rows="4" class="input_field" name="message">	</textarea> 
 															</div>
 														</div>
 														<div class="clear"></div>
@@ -180,65 +210,39 @@
 														</div>
 														<div class="clear"></div>
 												</form>
-												</article>
 												<!-- Content -->
-													<article class="box is-post">
-														<a href="http://facebook.com/DreametryDoodle" class="image image-full"><img src="images/pic01.jpg" alt="" /></a>
+												
+												
+												</article>
+										</div>
+											<div class="4u">
+											
+												<!-- Sidebar -->
+													<section class="box">
+														<a href="http://facebook.com/DreametryDoodle" class="image image-full"><img src="images/pic09.jpg" alt="" /></a>
 														<header>
-															<h2>No Sidebar</h2>
-															<span class="byline">Lorem ipsum dolor sit amet feugiat</span>
+															<h3>Sed etiam lorem nulla</h3>
 														</header>
-														<p>
-															Vestibulum scelerisque ultricies libero id hendrerit. Vivamus malesuada quam faucibus ante dignissim auctor 
-															hendrerit libero placerat. Nulla facilisi. Proin aliquam felis non arcu molestie at accumsan turpis commodo. 
-															Proin elementum, nibh non egestas sodales, augue quam aliquet est, id egestas diam justo adipiscing ante. 
-															Pellentesque tempus nulla non urna eleifend ut ultrices nisi faucibus.
-															Vestibulum scelerisque ultricies libero id hendrerit. Vivamus malesuada quam faucibus ante dignissim auctor 
-															hendrerit libero placerat. Nulla facilisi. Proin aliquam felis non arcu molestie at accumsan turpis commodo. 
-															Proin elementum, nibh non egestas sodales, augue quam aliquet est, id egestas diam justo adipiscing ante. 
-														</p>
-														<p>
-															Praesent a dolor leo. Duis in felis in tortor lobortis volutpat et pretium tellus. Vestibulum ac ante nisl, 
-															a elementum odio. Duis semper risus et lectus commodo fringilla. Maecenas sagittis convallis justo vel mattis. 
-															placerat, nunc diam iaculis massa, et aliquet nibh leo non nisl vitae porta lobortis, enim neque fringilla nunc, 
-															eget faucibus lacus sem quis nunc suspendisse nec lectus sit amet augue rutrum vulputate ut ut mi. Aenean 
-															elementum, mi sit amet porttitor lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor.
-														</p>
-														<section>
-															<header>
-																<h3>Something else</h3>
-															</header>
-															<p>
-																Elementum odio duis semper risus et lectus commodo fringilla. Maecenas sagittis convallis justo vel mattis. 
-																placerat, nunc diam iaculis massa, et aliquet nibh leo non nisl vitae porta lobortis, enim neque fringilla nunc, 
-																eget faucibus lacus sem quis nunc suspendisse nec lectus sit amet augue rutrum vulputate ut ut mi. Aenean 
-																elementum, mi sit amet porttitor lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor
-																sit amet nullam consequat feugiat dolore tempus.
-																Elementum odio duis semper risus et lectus commodo fringilla. Maecenas sagittis convallis justo vel mattis. 
-																placerat, nunc diam iaculis massa, et aliquet nibh leo non nisl vitae porta lobortis, enim neque fringilla nunc, 
-																eget faucibus lacus sem quis nunc suspendisse nec lectus sit amet augue rutrum vulputate ut ut mi. Aenean 
-																elementum, mi sit amet porttitor lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor.
-															</p>
-															<p>
-																Nunc diam iaculis massa, et aliquet nibh leo non nisl vitae porta lobortis, enim neque fringilla nunc, 
-																eget faucibus lacus sem quis nunc suspendisse nec lectus sit amet augue rutrum vulputate ut ut mi. Aenean 
-																elementum, mi sit amet porttitor lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor
-																sit amet nullam consequat feugiat dolore tempus.
-															</p>
-														</section>
-														<section>
-															<header>
-																<h3>So in conclusion ...</h3>
-															</header>
-															<p>
-																Nunc diam iaculis massa, et aliquet nibh leo non nisl vitae porta lobortis, enim neque fringilla nunc, 
-																eget faucibus lacus sem quis nunc suspendisse nec lectus sit amet augue rutrum vulputate ut ut mi. Aenean 
-																elementum, mi sit amet porttitor lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor
-																sit amet nullam consequat feugiat dolore tempus. Elementum odio duis semper risus et lectus commodo fringilla. 
-																Maecenas sagittis convallis justo vel mattis. 
-															</p>
-														</section>
-													</article>
+														<p>Lorem ipsum dolor sit amet sit veroeros sed amet blandit consequat veroeros lorem blandit  adipiscing et feugiat phasellus tempus dolore ipsum lorem dolore.</p>
+														<footer>
+															<a href="#" class="button alt">Magna sed taciti</a>
+														</footer>
+													</section>
+													<section class="box">
+														<header>
+															<h3>Feugiat consequat</h3>
+														</header>
+														<p>Veroeros sed amet blandit consequat veroeros lorem blandit adipiscing et feugiat sed lorem consequat feugiat lorem dolore.</p>
+														<ul class="divided">
+															<li><a href="#">Sed et blandit consequat sed</a></li>
+															<li><a href="#">Hendrerit tortor vitae sapien dolore</a></li>
+															<li><a href="#">Sapien id suscipit magna sed felis</a></li>
+															<li><a href="#">Aptent taciti sociosqu ad litora</a></li>
+														</ul>
+														<footer>
+															<a href="#" class="button alt">Ipsum consequat</a>
+														</footer>
+													</section>
 
 											</div>
 										</div>
@@ -250,7 +254,7 @@
 				</div>
 			</div>
 
-	<!-- Footer Wrapper -->
+		<!-- Footer Wrapper -->
 			<div id="footer-wrapper">
 				
 				<!-- Footer -->
@@ -277,6 +281,43 @@
 					</section>
 				
 			</div>
-
+		<script>
+		$(document).ready( function()
+			{
+				$("#reset").click(function()
+				{
+					$("#contact-us-form .input_field").val("");
+				});
+				$("#contact-us-form").submit(function( event ) {
+					
+							
+						$("#contact-us-form-error").html("");
+							//Validate
+							var valid = true;
+							$.each( $("#contact-us-form .input_field"), function( key, field ) {
+								if($.trim($(field).val())=="")
+								{
+									valid = false;
+								  $("#contact-us-form-error").html("Please fill all fields");
+								}
+								else
+								if(!IsEmail($("#email-field").val()))
+								{
+									valid = false;
+								   $("#contact-us-form-error").html("Please enter a valid email");
+								}
+							});
+							if(valid)
+							{
+								return;}
+							else
+							{
+								event.preventDefault();
+							}
+				
+					});
+			}	
+			);
+		</script>
 	</body>
 </html>

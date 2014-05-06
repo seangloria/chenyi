@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>About Us</title>
+		<title>Search</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -22,12 +22,12 @@
 			<link rel="stylesheet" href="css/style.css" />
 			<link rel="stylesheet" href="css/style-desktop.css" />
 		</noscript>
-		 <link rel="stylesheet" href="css/custom.css" />
+		<link rel="stylesheet" href="css/custom.css" />
 		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><link rel="stylesheet" href="css/ie8.css" /><![endif]-->
 	</head>
-	<body class="right-sidebar">
+	<body class="no-sidebar">
 
-			<!-- Header Wrapper -->
+		<!-- Header Wrapper -->
 			<div id="header-wrapper">
 				<div class="container">
 					<div class="row">
@@ -42,9 +42,9 @@
 									<!-- Nav -->
 										<nav id="nav">
 											<ul>
-												<li><a href="index.html">Home</a></li>
-												<li class="current_page_item">
-													<a href="about-us.html">About Us</a>
+												<li><a href="index.php">Home</a></li>
+												<li>
+													<a href="about-us.php">About Us</a>
 												<!-- 	<ul>
 														<li><a href="#">Lorem ipsum dolor</a></li>
 														<li><a href="#">Magna phasellus</a></li>
@@ -60,8 +60,8 @@
 														<li><a href="#">Veroeros feugiat</a></li>
 													</ul> -->
 												</li>
-											    <li><a href="search.html">Search</a></li>
-												<li><a href="contact-us.html">Contact Us</a></li>
+											    <li class="current_page_item"> <a href="search.php">Search</a></li>
+												<li><a href="contact-us.php">Contact Us</a></li>
 											
 											</ul>
 										</nav>
@@ -135,7 +135,7 @@
 					</div>
 				</div>
 			</div>
-	
+		
 		<!-- Main Wrapper -->
 			<div id="main-wrapper">
 				<div class="container">
@@ -145,17 +145,47 @@
 							<!-- Portfolio -->
 								<section>
 								<header class="major">
-										<h2>About this website</h2>
+										<h2>Search</h2>
 									</header>
 									<div>
 										<div class="row">
-											<div class="8u skel-cell-important">
-												
+											<div class="12u skel-cell-important">
+											<article class="box is-post">
+												<!-- Search form -->
+												<form action="search.php" name="search" method="post">
+														<div class="row">
+															<div class="6u">
+																<label for="herb" class="form_field">Herb Name (e.g. U00533; Salvia deserta Schang; Xinjiangshuweicao):</label> 
+															</div>
+															<div class="6u">
+														    	<input type="text" class="input_field" name="herb" id="herb">
+															</div>
+														    <div class="6u">
+																<label for="email">Compound Name</label>
+															</div>
+															<div class="6u">
+														    	<input type="text" class="input_field" name="compound" id="compound">		
+															</div>
+														    <div class="6u">
+																<label for="url">Protein Name (e.g. P04637, P53_HUMAN, P53):</label> 
+															</div>
+															<div class="6u">
+																<input type="text" class="input_field" id="protein" name="protein">	
+															</div>
+														</div>
+														<div class="clear"></div>
+													    <div class="right">									 																																		
+															<input type="submit" value="Search" id="submit" name="submit" class="button">
+															<input type="reset" value="Reset" id="reset" name="reset" class="button">
+														</div>
+														<div class="clear"></div>
+												</form>
+												</article>
 												<!-- Content -->
 													<article class="box is-post">
 														<a href="http://facebook.com/DreametryDoodle" class="image image-full"><img src="images/pic01.jpg" alt="" /></a>
 														<header>
-															<h2>Right sidebar</h2>
+															<h2>No Sidebar</h2>
 															<span class="byline">Lorem ipsum dolor sit amet feugiat</span>
 														</header>
 														<p>
@@ -163,14 +193,16 @@
 															hendrerit libero placerat. Nulla facilisi. Proin aliquam felis non arcu molestie at accumsan turpis commodo. 
 															Proin elementum, nibh non egestas sodales, augue quam aliquet est, id egestas diam justo adipiscing ante. 
 															Pellentesque tempus nulla non urna eleifend ut ultrices nisi faucibus.
+															Vestibulum scelerisque ultricies libero id hendrerit. Vivamus malesuada quam faucibus ante dignissim auctor 
+															hendrerit libero placerat. Nulla facilisi. Proin aliquam felis non arcu molestie at accumsan turpis commodo. 
+															Proin elementum, nibh non egestas sodales, augue quam aliquet est, id egestas diam justo adipiscing ante. 
 														</p>
 														<p>
 															Praesent a dolor leo. Duis in felis in tortor lobortis volutpat et pretium tellus. Vestibulum ac ante nisl, 
 															a elementum odio. Duis semper risus et lectus commodo fringilla. Maecenas sagittis convallis justo vel mattis. 
 															placerat, nunc diam iaculis massa, et aliquet nibh leo non nisl vitae porta lobortis, enim neque fringilla nunc, 
 															eget faucibus lacus sem quis nunc suspendisse nec lectus sit amet augue rutrum vulputate ut ut mi. Aenean 
-															elementum, mi sit amet porttitor lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor
-															sit amet nullam consequat feugiat dolore tempus.
+															elementum, mi sit amet porttitor lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor.
 														</p>
 														<section>
 															<header>
@@ -182,6 +214,10 @@
 																eget faucibus lacus sem quis nunc suspendisse nec lectus sit amet augue rutrum vulputate ut ut mi. Aenean 
 																elementum, mi sit amet porttitor lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor
 																sit amet nullam consequat feugiat dolore tempus.
+																Elementum odio duis semper risus et lectus commodo fringilla. Maecenas sagittis convallis justo vel mattis. 
+																placerat, nunc diam iaculis massa, et aliquet nibh leo non nisl vitae porta lobortis, enim neque fringilla nunc, 
+																eget faucibus lacus sem quis nunc suspendisse nec lectus sit amet augue rutrum vulputate ut ut mi. Aenean 
+																elementum, mi sit amet porttitor lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor.
 															</p>
 															<p>
 																Nunc diam iaculis massa, et aliquet nibh leo non nisl vitae porta lobortis, enim neque fringilla nunc, 
@@ -205,36 +241,6 @@
 													</article>
 
 											</div>
-											<div class="4u">
-											
-												<!-- Sidebar -->
-													<section class="box">
-														<a href="http://facebook.com/DreametryDoodle" class="image image-full"><img src="images/pic09.jpg" alt="" /></a>
-														<header>
-															<h3>Sed etiam lorem nulla</h3>
-														</header>
-														<p>Lorem ipsum dolor sit amet sit veroeros sed amet blandit consequat veroeros lorem blandit  adipiscing et feugiat phasellus tempus dolore ipsum lorem dolore.</p>
-														<footer>
-															<a href="#" class="button alt">Magna sed taciti</a>
-														</footer>
-													</section>
-													<section class="box">
-														<header>
-															<h3>Feugiat consequat</h3>
-														</header>
-														<p>Veroeros sed amet blandit consequat veroeros lorem blandit adipiscing et feugiat sed lorem consequat feugiat lorem dolore.</p>
-														<ul class="divided">
-															<li><a href="#">Sed et blandit consequat sed</a></li>
-															<li><a href="#">Hendrerit tortor vitae sapien dolore</a></li>
-															<li><a href="#">Sapien id suscipit magna sed felis</a></li>
-															<li><a href="#">Aptent taciti sociosqu ad litora</a></li>
-														</ul>
-														<footer>
-															<a href="#" class="button alt">Ipsum consequat</a>
-														</footer>
-													</section>
-
-											</div>
 										</div>
 									</div>
 								</section>
@@ -244,7 +250,7 @@
 				</div>
 			</div>
 
-		<!-- Footer Wrapper -->
+	<!-- Footer Wrapper -->
 			<div id="footer-wrapper">
 				
 				<!-- Footer -->

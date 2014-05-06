@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Contact Us</title>
+		<title>About Us</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -22,12 +22,12 @@
 			<link rel="stylesheet" href="css/style.css" />
 			<link rel="stylesheet" href="css/style-desktop.css" />
 		</noscript>
-		<link rel="stylesheet" href="css/custom.css" />
+		 <link rel="stylesheet" href="css/custom.css" />
 		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><link rel="stylesheet" href="css/ie8.css" /><![endif]-->
 	</head>
 	<body class="right-sidebar">
 
-				<!-- Header Wrapper -->
+			<!-- Header Wrapper -->
 			<div id="header-wrapper">
 				<div class="container">
 					<div class="row">
@@ -42,9 +42,9 @@
 									<!-- Nav -->
 										<nav id="nav">
 											<ul>
-												<li><a href="index.html">Home</a></li>
-												<li>
-													<a href="about-us.html">About Us</a>
+												<li><a href="index.php">Home</a></li>
+												<li class="current_page_item">
+													<a href="about-us.php">About Us</a>
 												<!-- 	<ul>
 														<li><a href="#">Lorem ipsum dolor</a></li>
 														<li><a href="#">Magna phasellus</a></li>
@@ -60,8 +60,8 @@
 														<li><a href="#">Veroeros feugiat</a></li>
 													</ul> -->
 												</li>
-											    <li><a href="search.html">Search</a></li>
-												<li class="current_page_item"><a href="contact-us.html">Contact Us</a></li>
+											    <li><a href="search.php">Search</a></li>
+												<li><a href="contact-us.php">Contact Us</a></li>
 											
 											</ul>
 										</nav>
@@ -145,51 +145,66 @@
 							<!-- Portfolio -->
 								<section>
 								<header class="major">
-										<h2>Contact Us</h2>
+										<h2>About this website</h2>
 									</header>
 									<div>
 										<div class="row">
 											<div class="8u skel-cell-important">
-												<article class="box is-post">
-												<!-- Search form -->
-												<form action="search.php" id="search-form" name="search" method="post">
-												<div id="search-form-error" class="error"></div>
-														<div>
-															<div>
-																<label for="name" class="form_field">Name:</label> 
-															</div>
-															<div >
-														    	<input type="text" class="input_field" name="name" >
-															</div>
-														    <div>
-																<label for="email">Email</label>
-															</div>
-															<div>
-														    	<input type="text" id="email-field" class="input_field" name="email">		
-															</div>
-														    <div>
-																<label for="phone">Phone:</label> 
-															</div>
-															<div >
-																<input type="text" class="input_field"  name="phone">	
-															</div>
-															 <div >
-																<label for="message">Message:</label> 
-															</div>
-															<div>
-																<textarea rows="4" class="input_field" name="message">	</textarea> 
-															</div>
-														</div>
-														<div class="clear"></div>
-													    <div class="right">									 																																		
-															<input type="submit" value="Search" id="submit" name="submit" class="button">
-															<input type="reset" value="Reset" id="reset" name="reset" class="button">
-														</div>
-														<div class="clear"></div>
-												</form>
+												
 												<!-- Content -->
-												</article>
-										</div>
+													<article class="box is-post">
+														<a href="http://facebook.com/DreametryDoodle" class="image image-full"><img src="images/pic01.jpg" alt="" /></a>
+														<header>
+															<h2>Right sidebar</h2>
+															<span class="byline">Lorem ipsum dolor sit amet feugiat</span>
+														</header>
+														<p>
+															Vestibulum scelerisque ultricies libero id hendrerit. Vivamus malesuada quam faucibus ante dignissim auctor 
+															hendrerit libero placerat. Nulla facilisi. Proin aliquam felis non arcu molestie at accumsan turpis commodo. 
+															Proin elementum, nibh non egestas sodales, augue quam aliquet est, id egestas diam justo adipiscing ante. 
+															Pellentesque tempus nulla non urna eleifend ut ultrices nisi faucibus.
+														</p>
+														<p>
+															Praesent a dolor leo. Duis in felis in tortor lobortis volutpat et pretium tellus. Vestibulum ac ante nisl, 
+															a elementum odio. Duis semper risus et lectus commodo fringilla. Maecenas sagittis convallis justo vel mattis. 
+															placerat, nunc diam iaculis massa, et aliquet nibh leo non nisl vitae porta lobortis, enim neque fringilla nunc, 
+															eget faucibus lacus sem quis nunc suspendisse nec lectus sit amet augue rutrum vulputate ut ut mi. Aenean 
+															elementum, mi sit amet porttitor lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor
+															sit amet nullam consequat feugiat dolore tempus.
+														</p>
+														<section>
+															<header>
+																<h3>Something else</h3>
+															</header>
+															<p>
+																Elementum odio duis semper risus et lectus commodo fringilla. Maecenas sagittis convallis justo vel mattis. 
+																placerat, nunc diam iaculis massa, et aliquet nibh leo non nisl vitae porta lobortis, enim neque fringilla nunc, 
+																eget faucibus lacus sem quis nunc suspendisse nec lectus sit amet augue rutrum vulputate ut ut mi. Aenean 
+																elementum, mi sit amet porttitor lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor
+																sit amet nullam consequat feugiat dolore tempus.
+															</p>
+															<p>
+																Nunc diam iaculis massa, et aliquet nibh leo non nisl vitae porta lobortis, enim neque fringilla nunc, 
+																eget faucibus lacus sem quis nunc suspendisse nec lectus sit amet augue rutrum vulputate ut ut mi. Aenean 
+																elementum, mi sit amet porttitor lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor
+																sit amet nullam consequat feugiat dolore tempus.
+															</p>
+														</section>
+														<section>
+															<header>
+																<h3>So in conclusion ...</h3>
+															</header>
+															<p>
+																Nunc diam iaculis massa, et aliquet nibh leo non nisl vitae porta lobortis, enim neque fringilla nunc, 
+																eget faucibus lacus sem quis nunc suspendisse nec lectus sit amet augue rutrum vulputate ut ut mi. Aenean 
+																elementum, mi sit amet porttitor lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor
+																sit amet nullam consequat feugiat dolore tempus. Elementum odio duis semper risus et lectus commodo fringilla. 
+																Maecenas sagittis convallis justo vel mattis. 
+															</p>
+														</section>
+													</article>
+
+											</div>
 											<div class="4u">
 											
 												<!-- Sidebar -->
@@ -256,43 +271,6 @@
 					</section>
 				
 			</div>
-		<script>
-		$(document).ready( function()
-			{
-				$("#reset").click(function()
-				{
-					$("#search-form .input_field").val("");
-				});
-				$("#search-form").submit(function( event ) {
-					
-							
-						$("#search-form-error").html("");
-							//Validate
-							var valid = true;
-							$.each( $("#search-form .input_field"), function( key, field ) {
-								if($.trim($(field).val())=="")
-								{
-									valid = false;
-								  $("#search-form-error").html("Please fill all fields");
-								}
-								else
-								if(!IsEmail($("#email-field").val()))
-								{
-									valid = false;
-								   $("#search-form-error").html("Please enter a valid email");
-								}
-							});
-							if(valid)
-							{
-								return;}
-							else
-							{
-								event.preventDefault();
-							}
-				
-					});
-			}	
-			);
-		</script>
+
 	</body>
 </html>

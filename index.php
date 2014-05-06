@@ -43,9 +43,9 @@
 									<!-- Nav -->
 										<nav id="nav">
 											<ul>
-												<li class="current_page_item"><a href="index.html">Home</a></li>
+												<li class="current_page_item"><a href="index.php">Home</a></li>
 												<li>
-													<a href="about-us.html">About Us</a>
+													<a href="about-us.php">About Us</a>
 												<!-- 	<ul>
 														<li><a href="#">Lorem ipsum dolor</a></li>
 														<li><a href="#">Magna phasellus</a></li>
@@ -61,8 +61,8 @@
 														<li><a href="#">Veroeros feugiat</a></li>
 													</ul> -->
 												</li>
-											    <li><a href="search.html">Search</a></li>
-												<li><a href="contact-us.html">Contact Us</a></li>
+											    <li><a href="search.php">Search</a></li>
+												<li><a href="contact-us.php">Contact Us</a></li>
 											
 											</ul>
 										</nav>
