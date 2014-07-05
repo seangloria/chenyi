@@ -52,4 +52,11 @@ width:95%;
 table.search-result th
 {
 font-weight:bold;
+padding-left: 3pt;
+}
+
+table.search-result td
+{
+	padding: 0 2pt;
+	word-wrap: break-word;
 }

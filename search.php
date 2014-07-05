@@ -152,37 +152,17 @@
 											<div class="12u skel-cell-important">
 											<article class="box is-post">
 												<!-- Search form -->
-												<form action="search.php" name="search" method="post">
-														<div class="row">
-															<div class="6u">
-																<label for="herb" class="form_field">Herb Name (e.g. U00533; Salvia deserta Schang; Xinjiangshuweicao):</label> 
-															</div>
-															<div class="6u">
-														    	<input type="text" class="input_field" name="herb" id="herb">
-															</div>
-														    <div class="6u">
-																<label for="email">Compound Name</label>
-															</div>
-															<div class="6u">
-														    	<input type="text" class="input_field" name="compound" id="compound">		
-															</div>
-														    <div class="6u">
-																<label for="url">Protein Name (e.g. P04637, P53_HUMAN, P53):</label> 
-															</div>
-															<div class="6u">
-																<input type="text" class="input_field" id="protein" name="protein">	
-															</div>
-														</div>
-														<div class="clear"></div>
-													    <div class="right">									 																																		
-															<input type="submit" value="Search" id="submit" name="submit" class="button">
-															<input type="reset" value="Reset" id="reset" name="reset" class="button">
-														</div>
-														<div class="clear"></div>
-												</form>
+												<a href="search_a.php">miRNA autophagy</a></br>
+												<a href="search_b.php">miRNA protein</a></br>
+												<a href="search_c.php">miRNA cancer</a></br>
+												<a href="search_d.php">autophagy cancer</a></br>
+												<a href="search_e.php">autophagy protein</a></br>
+												<a href="search_f.php">protein cancer</a></br>
 												</article>
 												<!-- Content -->
-													<article class="box is-post">
+												<!--
+													 <article class="box is-post">
+													 
 														<a href="http://facebook.com/DreametryDoodle" class="image image-full"><img src="images/pic01.jpg" alt="" /></a>
 														<header>
 															<h2>No Sidebar</h2>
@@ -239,7 +219,7 @@
 															</p>
 														</section>
 													</article>
-
+												-->
 											</div>
 										</div>
 									</div>
