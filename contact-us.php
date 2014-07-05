@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <!--
-	Dopetrope 2.5 by HTML5 UP
+	AutomiRDB 2.5 by HTML5 UP
 	html5up.net | @n33co
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
@@ -37,7 +37,7 @@
 								<section id="header">
 									
 									<!-- Logo -->
-										<h1><a href="#">Dopetrope</a></h1>
+										<h1><a href="#">AutomiRDB</a></h1>
 									
 									<!-- Nav -->
 										<nav id="nav">
@@ -78,7 +78,7 @@
 									<a href="http://facebook.com/DreametryDoodle">
 										<span class="image image-full"><img src="images/pic01.jpg" alt="" /></span>
 										<header>
-											<h2>Howdy. This is Dopetrope.</h2>
+											<h2>Howdy. This is AutomiRDB.</h2>
 											<span class="byline">A responsive template by HTML5 UP</span>
 										</header>
 									</a>

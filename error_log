@@ -1,5 +1,5 @@
-[06-May-2014 05:28:11 America/Denver] PHP Parse error:  syntax error, unexpected ']' in /home4/yulabor1/public_html/OtherPersons/chenyi/contact-us.php on line 163
-[06-May-2014 05:29:27 America/Denver] PHP Parse error:  syntax error, unexpected ']' in /home4/yulabor1/public_html/OtherPersons/chenyi/contact-us.php on line 163
-[06-May-2014 05:34:11 America/Denver] PHP Parse error:  syntax error, unexpected ']' in /home4/yulabor1/public_html/OtherPersons/chenyi/contact-us.php on line 163
-[06-May-2014 05:42:16 America/Denver] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home4/yulabor1/public_html/OtherPersons/chenyi/contact-us.php on line 172
-[06-May-2014 05:58:35 America/Denver] PHP Notice:  Undefined variable: message in /home4/yulabor1/public_html/OtherPersons/chenyi/contact-us.php on line 166
+[06-May-2014 05:28:11 America/Denver] PHP Parse error:  syntax error, unexpected ']' in /home4/yulabor1/public_html/OtherPersons/chenyi/contact-us.php on line 163
+[06-May-2014 05:29:27 America/Denver] PHP Parse error:  syntax error, unexpected ']' in /home4/yulabor1/public_html/OtherPersons/chenyi/contact-us.php on line 163
+[06-May-2014 05:34:11 America/Denver] PHP Parse error:  syntax error, unexpected ']' in /home4/yulabor1/public_html/OtherPersons/chenyi/contact-us.php on line 163
+[06-May-2014 05:42:16 America/Denver] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home4/yulabor1/public_html/OtherPersons/chenyi/contact-us.php on line 172
+[06-May-2014 05:58:35 America/Denver] PHP Notice:  Undefined variable: message in /home4/yulabor1/public_html/OtherPersons/chenyi/contact-us.php on line 166

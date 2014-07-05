@@ -43,3 +43,13 @@ form label
 {
 font-weight:bold;
 }
+/**Table*/
+table.search-result
+{
+text-align:left;
+width:95%;
+}
+table.search-result th
+{
+font-weight:bold;
+}
