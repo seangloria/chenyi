@@ -152,8 +152,7 @@
 									   <div class="row">
 									   <p>
 									   <!-- Description Home -->
-									   Chinese Ethnic Minority Traditional Drug (CEMTD) has been receiving more attention from the public. Currently, great efforts have been paid to its modernization. Since the herbs have been well-recognized by minority people to perturb human’s dysfunction network, the relationship between compounds in herbs and their targets are the focus in CEMTD modernization.
-
+									  miRNAs have been found to be involved in cancer cell autophagy and dysregulation of miRNAs is an important trait of cancer progression. As more attention has been paid to miRNAs, our database is aim to collect and present relations between miRNAs and autophagy in different types of cancer cells and therefore gain a systematic view of autophagy signaling network in cancer therapy. 
 									   </p>
 									   </div>
 										<div class="row">
@@ -161,11 +160,11 @@
 												<section class="box">
 													<a href="http://facebook.com/DreametryDoodle" class="image image-full"><img src="images/herbs_2.jpg" alt="" /></a>
 													<header>
-														<h3>Ipsum feugiat et dolor</h3>
+														<h3>miRNAs</h3>
 													</header>
-													<p>Lorem ipsum dolor sit amet sit veroeros sed amet blandit consequat veroeros lorem blandit  adipiscing et feugiat phasellus tempus dolore ipsum lorem dolore.</p>
+													<p>In our database, relationships between miRNAs as oncogenes and corresponding proteins are established with the data extracted from original articles and databases like miBase, Uniprot. Additonally, the correlation are confirmed in databases such as TargetScan, PicTar, miTarBase, miRanda.</p>
 													<footer>
-														<a href="#" class="button alt">Find out more</a>
+														<a href="#" style="display:none" class="button alt">Find out more</a>
 													</footer>
 												</section>
 											</div>
@@ -173,11 +172,11 @@
 												<section class="box">
 													<a href="http://facebook.com/DreametryDoodle" class="image image-full"><img src="images/protein.jpg" alt="" /></a>
 													<header>
-														<h3>Sed etiam lorem nulla</h3>
+														<h3>Autophagy</h3>
 													</header>
-													<p>Lorem ipsum dolor sit amet sit veroeros sed amet blandit consequat veroeros lorem blandit  adipiscing et feugiat phasellus tempus dolore ipsum lorem dolore.</p>
+													<p>Our database presents proteins recruited in autophagy signaling pathway and their special roles in different autophagy stages.</p>
 													<footer>
-														<a href="#" class="button alt">Find out more</a>
+														<a href="#" class="button alt" style="display:none">Find out more</a>
 													</footer>
 												</section>
 											</div>
@@ -185,11 +184,11 @@
 												<section class="box">
 													<a href="http://facebook.com/DreametryDoodle" class="image image-full"><img src="images/ppi.jpg" alt="" /></a>
 													<header>
-														<h3>Consequat et tempus</h3>
+														<h3>miRNAs in cancer cell autophagy</h3>
 													</header>
-													<p>Lorem ipsum dolor sit amet sit veroeros sed amet blandit consequat veroeros lorem blandit  adipiscing et feugiat phasellus tempus dolore ipsum lorem dolore.</p>
+													<p>Dual function of miRNAs in autophagy ultimately seal the fate of cancer cells. Integrating data from online databases like miBase, Uniprot, OMIM, and etc, regulatory mechanisms of miRNAs in cancer cell autophagy network are partially revealed, contributing to RNA therapeutic strategies in the future. </p>
 													<footer>
-														<a href="#" class="button alt">Find out more</a>
+														<a href="#" style="display:none" class="button alt">Find out more</a>
 													</footer>
 												</section>
 											</div>

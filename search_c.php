@@ -145,7 +145,7 @@
 							<!-- Portfolio -->
 								<section>
 								<header class="major">
-										<h2>Search</h2>
+										<h2>Search miRNA-cancer</h2>
 									</header>
 									<div>
 									<?php
