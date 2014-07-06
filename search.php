@@ -151,9 +151,8 @@
 										<div class="row">
 											<div class="12u skel-cell-important">
 											<article class="box is-post">
-												<!-- Search form -->
-												<div class="4u">
-												<img src ="images/map.jpg" width="400px" height="400px" alt="Click lines between entity to search" usemap="#map">
+														<div class="4u left">
+												<img width="400px" height="400px" src="images/map.jpg" alt="Click any line between entities to search" usemap="#map">
 
 													<map name="map">
 													<area shape="poly" coords="170,53,180,53,180,148,170,148" href="search_a.php" alt="miRNA autophagy">
@@ -163,8 +162,9 @@
 													<area shape="poly" coords="197,198,208,190,290,298,282,305" href="search_d.php" alt="autophagy cancer">
 													<area shape="poly" coords="148,196,158,204,83,310,74,302" href="search_e.php" alt="autophagy protein">
 													<area shape="rect" coords="80,314,274,324" href="search_f.php" alt="autophagy cancer">
-												</div>
-												<div class="8u"></div>
+												</map></div>
+												<div class="8u left"><h4>Click any line between entities to search</h4></div>
+  											<div class="clear"></div>
 												</article>
 												<!-- Content -->
 												<!--
