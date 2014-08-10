@@ -43,25 +43,8 @@
 										<nav id="nav">
 											<ul>
 												<li><a href="index.php">Home</a></li>
-												<li>
-													<a href="about-us.php">About Us</a>
-												<!-- 	<ul>
-														<li><a href="#">Lorem ipsum dolor</a></li>
-														<li><a href="#">Magna phasellus</a></li>
-														<li><a href="#">Etiam dolore nisl</a></li>
-														<li>
-															<a href="">Phasellus consequat</a>
-															<ul>
-																<li><a href="#">Magna phasellus</a></li>
-																<li><a href="#">Etiam dolore nisl</a></li>
-																<li><a href="#">Veroeros feugiat</a></li>
-															</ul>
-														</li>
-														<li><a href="#">Veroeros feugiat</a></li>
-													</ul> -->
-												</li>
+												
 											    <li class="current_page_item"> <a href="search.php">Search</a></li>
-												<li><a href="contact-us.php">Contact Us</a></li>
 											
 											</ul>
 										</nav>
@@ -148,28 +131,176 @@
 										<h2>Search</h2>
 									</header>
 									<div>
+									<?php
+									$inputKeyword = '';
+									if(isset($_POST['keywords']))
+									{
+								    	$inputKeyword = $_POST['keywords'];
+									}
+									else
+									{
+									  if(isset($_GET['keywords']))
+									  $inputKeyword = $_GET['keywords'];
+									}
+									?>
 										<div class="row">
 											<div class="12u skel-cell-important">
 											<article class="box is-post">
-														<div class="4u left">
-												<img width="400px" height="400px" src="images/map.jpg" alt="Click any line between entities to search" usemap="#map">
+												<!-- Search form -->
 
-													<map name="map">
-													<area shape="poly" coords="170,53,180,53,180,148,170,148" href="search_a.php" alt="miRNA autophagy">
-													<area shape="poly" coords="148,38,155,45,44,287,28,290" href="search_b.php" alt="miRNA protein">
-													<area shape="poly" coords="204,50,216,44,310,294,296,296" href="search_c.php" alt="miRNA cancer">
+												<form action="search.php" name="search" method="post">
+														<div class="row">
+															<div class="6u">
+																<label for="keywords" class="form_field">Keywords</label> 
+															</div>
+															<div class="6u">
+														    	<input type="text" class="input_field" name="keywords" value="<?php echo $inputKeyword ?>" id="keywords">
+															</div>													    
+														</div>
+														<div class="clear"></div>
+													    <div class="right">									 																																		
+															<input type="submit" value="Search" id="submit" name="submit" class="button">
+														</div>
+														<div class="clear"></div>
+														<?php 
+														$dbhost = 'localhost:3036';
+														$dbuser = 'seanli';
+														$dbpass = 'pass21';
+														$rec_limit = 10;
+														$conn = mysql_connect($dbhost, $dbuser, $dbpass);
+														if(! $conn )
+														{
+														  die('Could not connect: ' . mysql_error());
+														}
+														mysql_select_db('chenlab');
+														$query = '';
+													
+														if ($inputKeyword=='')
+														{
+														    $query = 'SELECT * FROM chenlab.miRNA_search';
+														}
+														else
+														{
+														   $query = "SELECT * FROM chenlab.miRNA_search where id like '%".$inputKeyword."%' "
+															. " or access like '%".$inputKeyword."%' "
+															. " or description like '%".$inputKeyword."%' "
+															. " or unac like '%".$inputKeyword."%' "
+															. " or unid like '%".$inputKeyword."%' "
+															. " or miRNA_name like '%".$inputKeyword."%' "
+															. " or cancer_name like '%".$inputKeyword."%' "
+															. " or omimid like '%".$inputKeyword."%' "
+															. " or autophagy_type like '%".$inputKeyword."%' "
+															. " or symbol like '%".$inputKeyword."%' ";
+														}
+														 $result=mysql_query($query,$conn); 
+														 ?>
+														,
+														 <table class="search-result">
+															 <tr>
+																 <th>
+																 miRNA ID
+																 </th>
+																  <th>
+																  access
+																 </th>
+																  <th>
+																  symbol
+																 </th>
+																  
+																  <!-- <th>
+																  miRNA description
+																 </th>-->
+																   <th>
+																 unac
+																 </th>
+																   <th>
+																  unid
+																 </th>
+																   <th>
+																  status
+																 </th>
+																   <th>
+																gene
+																 </th>
+																   <th>
+																 miRNA_name
+																 </th>
+																   <th>
+																 method
+																 </th>
+																 
+																  <th>
+																 cancer_name
+																 </th>
+																  <th>
+																 omimid
+																 </th>
+																 <!--  <th>
+																 // cancer_desc
+																 // </th>
+																  // <th>
+																 // mirRNA_function
+																 // </th>
+																  // <th>
+																 // cancer_function
+																 // </th>
+																
+																  // <th>
+																 // autophagy_type
+																 // </th>
+															   </tr>-->
+																  <?php
+																  if(isset($_POST['keywords']))
+																  {
+																		  //-create  while loop and loop through result set 
+																		while($row=mysql_fetch_array($result)){ 
+																		$miRNA_ID  =$row['id']; 
+																		$access=$row['access']; 
+																		$symbol=$row['symbol']; 
+																		
+																		
+																		
+																		$miRNA_description  =$row['description']; 
+															
+																		//-display the result of the array 
+																		echo "<tr>"; 
+																		echo " <td>"  .$miRNA_ID  . " </td>\n"; 
+																		echo " <td>"  .$access  . " </td>\n"; 
+																		echo " <td>"  .$symbol  . " </td>\n"; 
+																		
+																		
+																		// echo " <td>"  .$miRNA_description  . " </td>\n"; 	
+																		echo " <td>"  .$row['unac']  . " </td>\n"; 
+																		echo " <td>"  .$row['unid']  . " </td>\n"; 
+																		echo " <td>"  .$row['status']  . " </td>\n"; 
+																		echo " <td>"  .$row['gene']  . " </td>\n"; 
+																		echo " <td>"  .$row['miRNA_name']  . " </td>\n"; 		
+																		echo " <td>"  .$row['method']  . " </td>\n"; 		
 
-													<area shape="poly" coords="197,198,208,190,290,298,282,305" href="search_d.php" alt="autophagy cancer">
-													<area shape="poly" coords="148,196,158,204,83,310,74,302" href="search_e.php" alt="autophagy protein">
-													<area shape="rect" coords="80,314,274,324" href="search_f.php" alt="autophagy cancer">
-												</map></div>
-												<div class="8u left"><h4>Click any line between entities to search</h4></div>
-  											<div class="clear"></div>
+
+																		echo " <td>"  .$row['cancer_name']  . " </td>\n"; 
+																		echo " <td>"  .$row['omimid']  . " </td>\n"; 
+																		// echo " <td>"  .$row['cancer_desc']  . " </td>\n"; 
+																		// echo " <td>"  .$row['mirRNA_function']  . " </td>\n"; 
+																		// echo " <td>"  .$row['cancer_function']  . " </td>\n"; 		
+																		// echo " <td>"  .$row['stage']  . " </td>\n"; 
+																		// echo " <td>"  .$row['autophagy_type']  . " </td>\n"; 
+																			
+																		echo "</tr>"; 
+															
+																 
+																  }
+																  }
+																
+																	mysql_close($conn);
+																?>
+														 </table>
+														
+												</form>
 												</article>
 												<!-- Content -->
-												<!--
-													 <article class="box is-post">
-													 
+												<!-- 
+													<article class="box is-post" style="display:none">
 														<a href="http://facebook.com/DreametryDoodle" class="image image-full"><img src="images/pic01.jpg" alt="" /></a>
 														<header>
 															<h2>No Sidebar</h2>
@@ -226,7 +357,7 @@
 															</p>
 														</section>
 													</article>
-												-->
+													-->
 											</div>
 										</div>
 									</div>
