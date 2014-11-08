@@ -1,0 +1,495 @@
+id,access,AC,protein,status,gene,full name,source,disease,known
+hsa-let-7b-5p,MIMAT0000063,P00519,ABL1_HUMAN,Reviewed,ABL1,Tyrosine-protein kinase ABL1,miTarBase,Gastrointesinal Stromal Tumor(606764),FALSE
+hsa-miR-125b-5p,MIMAT0000423,P00519,ABL1_HUMAN,Reviewed,ABL1,Tyrosine-protein kinase ABL1,miTarBase,Gastrointesinal Stromal Tumor(606764),FALSE
+hsa-miR-149-5p,MIMAT0000450,P00519,ABL1_HUMAN,Reviewed,ABL1,Tyrosine-protein kinase ABL1,miTarBase,Gastrointesinal Stromal Tumor(606764),FALSE
+hsa-miR-203a,MI0000283,P00519,ABL1_HUMAN,Reviewed,ABL1,Tyrosine-protein kinase ABL1,miTarBase,Gastrointesinal Stromal Tumor(606764),FALSE
+hsa-miR-29a-3p,MIMAT0000086,P00519,ABL1_HUMAN,Reviewed,ABL1,Tyrosine-protein kinase ABL1,miTarBase,Gastrointesinal Stromal Tumor(606764),FALSE
+hsa-miR-30a-5p,MIMAT0000087,P00519,ABL1_HUMAN,Reviewed,ABL1,Tyrosine-protein kinase ABL1,miTarBase,Gastrointesinal Stromal Tumor(606764),FALSE
+hsa-miR-342-3p,MIMAT0000753,P00519,ABL1_HUMAN,Reviewed,ABL1,Tyrosine-protein kinase ABL1,miTarBase,Gastrointesinal Stromal Tumor(606764),FALSE
+hsa-miR-484,MI0002468,P00519,ABL1_HUMAN,Reviewed,ABL1,Tyrosine-protein kinase ABL1,miTarBase,Gastrointesinal Stromal Tumor(606764),FALSE
+hsa-let-7a-5p,MIMAT0000062,P42684,ABL2_HUMAN,Reviewed,ABL2,Abelson tyrosine-protein kinase 2,miTarBase,Cancer related,FALSE
+hsa-let-7b-5p,MIMAT0000063,P42684,ABL2_HUMAN,Reviewed,ABL2,Abelson tyrosine-protein kinase 2,miTarBase,Cancer related,FALSE
+hsa-let-7c,MI0000064,P42684,ABL2_HUMAN,Reviewed,ABL2,Abelson tyrosine-protein kinase 2,miTarBase,Cancer related,FALSE
+hsa-let-7e-5p,MIMAT0000066,P42684,ABL2_HUMAN,Reviewed,ABL2,Abelson tyrosine-protein kinase 2,miTarBase,Cancer related,FALSE
+hsa-let-7f-5p,MIMAT0000067,P42684,ABL2_HUMAN,Reviewed,ABL2,Abelson tyrosine-protein kinase 2,miTarBase,Cancer related,FALSE
+hsa-let-7g-5p,MIMAT0000414,P42684,ABL2_HUMAN,Reviewed,ABL2,Abelson tyrosine-protein kinase 2,miTarBase,Cancer related,FALSE
+hsa-let-7i-5p,MIMAT0000415,P42684,ABL2_HUMAN,Reviewed,ABL2,Abelson tyrosine-protein kinase 2,miTarBase,Cancer related,FALSE
+hsa-miR-103a-3p,MIMAT0000101,P42684,ABL2_HUMAN,Reviewed,ABL2,Abelson tyrosine-protein kinase 2,miTarBase,Cancer related,FALSE
+hsa-miR-140-3p,MIMAT0004597,P42684,ABL2_HUMAN,Reviewed,ABL2,Abelson tyrosine-protein kinase 2,miTarBase,Cancer related,FALSE
+hsa-miR-16-5p,MIMAT0000069,P42684,ABL2_HUMAN,Reviewed,ABL2,Abelson tyrosine-protein kinase 2,miTarBase,Cancer related,FALSE
+hsa-miR-92a-3p,MIMAT0000092,P42684,ABL2_HUMAN,Reviewed,ABL2,Abelson tyrosine-protein kinase 2,miTarBase,Cancer related,FALSE
+hsa-miR-125b-5p,MIMAT0000423,P31749,AKT1_HUMAN,Reviewed,AKT1,RAC-alpha serine/threonine-protein kinase,miTarBase,Breast Cancer(114480);Ovarian Cancer(167000);Colorectal Cancer(114500),FALSE
+hsa-miR-143-3p,MIMAT0000435,P31749,AKT1_HUMAN,Reviewed,AKT1,RAC-alpha serine/threonine-protein kinase,miTarBase,Breast Cancer(114480);Ovarian Cancer(167000);Colorectal Cancer(114500),FALSE
+hsa-miR-149-3p,MIMAT0004609,P31749,AKT1_HUMAN,Reviewed,AKT1,RAC-alpha serine/threonine-protein kinase,miTarBase,Breast Cancer(114480);Ovarian Cancer(167000);Colorectal Cancer(114500),FALSE
+hsa-miR-185-5p,MIMAT0000455,P31749,AKT1_HUMAN,Reviewed,AKT1,RAC-alpha serine/threonine-protein kinase,miTarBase,Breast Cancer(114480);Ovarian Cancer(167000);Colorectal Cancer(114500),FALSE
+hsa-miR-193b-3p,MIMAT0002819,P31749,AKT1_HUMAN,Reviewed,AKT1,RAC-alpha serine/threonine-protein kinase,miTarBase,Breast Cancer(114480);Ovarian Cancer(167000);Colorectal Cancer(114500),FALSE
+hsa-miR-199a-3p,MIMAT0000232,P31749,AKT1_HUMAN,Reviewed,AKT1,RAC-alpha serine/threonine-protein kinase,miTarBase,Breast Cancer(114480);Ovarian Cancer(167000);Colorectal Cancer(114500),FALSE
+hsa-miR-26b-5p,MIMAT0000083,P31749,AKT1_HUMAN,Reviewed,AKT1,RAC-alpha serine/threonine-protein kinase,miTarBase,Breast Cancer(114480);Ovarian Cancer(167000);Colorectal Cancer(114500),FALSE
+hsa-miR-302a-3p,MIMAT0000684,P31749,AKT1_HUMAN,Reviewed,AKT1,RAC-alpha serine/threonine-protein kinase,miTarBase,Breast Cancer(114480);Ovarian Cancer(167000);Colorectal Cancer(114500),FALSE
+hsa-miR-302b-3p,MIMAT0000715,P31749,AKT1_HUMAN,Reviewed,AKT1,RAC-alpha serine/threonine-protein kinase,miTarBase,Breast Cancer(114480);Ovarian Cancer(167000);Colorectal Cancer(114500),FALSE
+hsa-miR-302c-3p,MIMAT0000717,P31749,AKT1_HUMAN,Reviewed,AKT1,RAC-alpha serine/threonine-protein kinase,miTarBase,Breast Cancer(114480);Ovarian Cancer(167000);Colorectal Cancer(114500),FALSE
+hsa-miR-302d-3p,MIMAT0000718,P31749,AKT1_HUMAN,Reviewed,AKT1,RAC-alpha serine/threonine-protein kinase,miTarBase,Breast Cancer(114480);Ovarian Cancer(167000);Colorectal Cancer(114500),FALSE
+hsa-miR-451a,MI0001729,P31749,AKT1_HUMAN,Reviewed,AKT1,RAC-alpha serine/threonine-protein kinase,miTarBase,Breast Cancer(114480);Ovarian Cancer(167000);Colorectal Cancer(114500),FALSE
+hsa-miR-122-5p,MIMAT0000421,P20073,ANXA7_HUMAN,Reviewed,ANXA7,Annexin A7,miTarBase,Prostate Cancer(176807),FALSE
+hsa-miR-196a-5p,MIMAT0000226,P20073,ANXA7_HUMAN,Reviewed,ANXA7,Annexin A7,miTarBase,Prostate Cancer(176807),FALSE
+hsa-miR-324-5p,MIMAT0000761,P20073,ANXA7_HUMAN,Reviewed,ANXA7,Annexin A7,miTarBase,Prostate Cancer(176807),FALSE
+hsa-miR-181a-5p,MIMAT0000256,Q9H0Y0,ATG10_HUMAN,Reviewed,ATG10,Ubiquitin-like-conjugating enzyme ATG10,miTarBase,Squamous Cell Carcinoma(275355),FALSE
+hsa-miR-192-5p,MIMAT0000222,Q9H0Y0,ATG10_HUMAN,Reviewed,ATG10,Ubiquitin-like-conjugating enzyme ATG10,miTarBase,Squamous Cell Carcinoma(275355),FALSE
+hsa-miR-215-5p,MIMAT0000272,Q9H0Y0,ATG10_HUMAN,Reviewed,ATG10,Ubiquitin-like-conjugating enzyme ATG10,miTarBase,Squamous Cell Carcinoma(275355),FALSE
+hsa-miR-9-5p,MIMAT0000441,Q9H0Y0,ATG10_HUMAN,Reviewed,ATG10,Ubiquitin-like-conjugating enzyme ATG10,miTarBase,Squamous Cell Carcinoma(275355),FALSE
+hsa-miR-30a,MI0000088,O94817,ATG12_HUMAN,Reviewed,ATG12,Ubiquitin-like protein ATG12,miTarBase,Ovarian Cancer(167000),FALSE
+hsa-miR-630,MI0003644,O94817,ATG12_HUMAN,Reviewed,ATG12,Ubiquitin-like protein ATG12,miTarBase,Ovarian Cancer(167000),FALSE
+hsa-mir-301a,MI0000745,Q96BY7,ATG2B_HUMAN,Reviewed,ATG2B,Autophagy-related protein 2 homolog B,miTarBase,"Leukemia, Chronic Lymphocytic(151400)",FALSE
+hsa-mir-301a,MI0000745,Q96BY7,ATG2B_HUMAN,Reviewed,ATG2B,Autophagy-related protein 2 homolog B,miTarBase,"Leukemia, Chronic Lymphocytic(151400)",FALSE
+hsa-mir-301b,MI0005568,Q96BY7,ATG2B_HUMAN,Reviewed,ATG2B,Autophagy-related protein 2 homolog B,miTarBase,"Leukemia, Chronic Lymphocytic(151400)",FALSE
+hsa-miR-454,MI0003820,Q96BY7,ATG2B_HUMAN,Reviewed,ATG2B,Autophagy-related protein 2 homolog B,miTarBase,"Leukemia, Chronic Lymphocytic(151400)",FALSE
+hsa-miR-10a-5p,MIMAT0000253,Q9NT62,ATG3_HUMAN,Reviewed,ATG3,Ubiquitin-like-conjugating enzyme ATG3,miTarBase,N/A,FALSE
+hsa-miR-155-5p,MIMAT0000646,Q9NT62,ATG3_HUMAN,Reviewed,ATG3,Ubiquitin-like-conjugating enzyme ATG3,miTarBase,N/A,FALSE
+hsa-let-7b-5p,MIMAT0000063,Q9Y4P1,ATG4B_HUMAN,Reviewed,ATG4B,Cysteine protease ATG4B,miTarBase,"Leukemia, Chronic Lymphocytic(151400)",FALSE
+hsa-miR-374a,MI0000782,Q9H1Y0,ATG5_HUMAN,Reviewed,ATG5,Autophagy protein 5,miTarBase,Ovarian Cancer(167000),FALSE
+hsa-miR-375,MI0000783,O95352,ATG7_HUMAN,Reviewed,ATG7,Ubiquitin-like modifier-activating enzyme ATG7,miTarBase,Colorectal Cancer(114500);Hepatocelluar Carcinoma(114550),FALSE
+hsa-let-7a-5p,MIMAT0000062,Q7Z3C6,ATG9A_HUMAN,Reviewed,ATG9A,Autophagy-related protein 9A,miTarBase,N/A,FALSE
+hsa-let-7b-5p,MIMAT0000063,Q7Z3C6,ATG9A_HUMAN,Reviewed,ATG9A,Autophagy-related protein 9A,miTarBase,N/A,FALSE
+hsa-let-7c,MI0000064,Q7Z3C6,ATG9A_HUMAN,Reviewed,ATG9A,Autophagy-related protein 9A,miTarBase,N/A,FALSE
+hsa-let-7d-5p,MIMAT0000065,Q7Z3C6,ATG9A_HUMAN,Reviewed,ATG9A,Autophagy-related protein 9A,miTarBase,N/A,FALSE
+hsa-let-7e-5p,MIMAT0000066,Q7Z3C6,ATG9A_HUMAN,Reviewed,ATG9A,Autophagy-related protein 9A,miTarBase,N/A,FALSE
+hsa-let-7f-5p,MIMAT0000067,Q7Z3C6,ATG9A_HUMAN,Reviewed,ATG9A,Autophagy-related protein 9A,miTarBase,N/A,FALSE
+hsa-let-7g-5p,MIMAT0000414,Q7Z3C6,ATG9A_HUMAN,Reviewed,ATG9A,Autophagy-related protein 9A,miTarBase,N/A,FALSE
+hsa-let-7i-5p,MIMAT0000415,Q7Z3C6,ATG9A_HUMAN,Reviewed,ATG9A,Autophagy-related protein 9A,miTarBase,N/A,FALSE
+hsa-miR-103a-3p,MIMAT0000101,Q7Z3C6,ATG9A_HUMAN,Reviewed,ATG9A,Autophagy-related protein 9A,miTarBase,N/A,FALSE
+hsa-miR-16-5p,MIMAT0000069,Q7Z3C6,ATG9A_HUMAN,Reviewed,ATG9A,Autophagy-related protein 9A,miTarBase,N/A,FALSE
+hsa-miR-196a-5p,MIMAT0000226,Q7Z3C6,ATG9A_HUMAN,Reviewed,ATG9A,Autophagy-related protein 9A,miTarBase,N/A,FALSE
+hsa-miR-196b-5p,MIMAT0001080,Q7Z3C6,ATG9A_HUMAN,Reviewed,ATG9A,Autophagy-related protein 9A,miTarBase,N/A,FALSE
+hsa-miR-744-5p,MIMAT0004945,Q7Z3C6,ATG9A_HUMAN,Reviewed,ATG9A,Autophagy-related protein 9A,miTarBase,N/A,FALSE
+hsa-miR-98,MI0000100,Q7Z3C6,ATG9A_HUMAN,Reviewed,ATG9A,Autophagy-related protein 9A,miTarBase,N/A,FALSE
+hsa-miR-98-5p,MIMAT0000096,Q7Z3C6,ATG9A_HUMAN,Reviewed,ATG9A,Autophagy-related protein 9A,miTarBase,N/A,FALSE
+hsa-miR-330-5p,MIMAT0004693,Q92934,BAD_HUMAN,Reviewed,BAD,Bcl2-associated agonist of cell death,miTarBase,N/A,FALSE
+hsa-let-7a-5p,MIMAT0000062,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-let-7c,MI0000064,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-let-7d-5p,MIMAT0000065,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-1,MIMAT0000416,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-103a-3p,MIMAT0000101,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-125b-5p,MIMAT0000423,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-136-5p,MIMAT0000448,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-143-3p,MIMAT0000435,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-148a-3p,MIMAT0000243,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-153-3p,MIMAT0000439,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-15a-5p,MIMAT0000068,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-16-5p,MIMAT0000069,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-17-5p,MIMAT0000070,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-181a-5p,MIMAT0000256,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-181b-5p,MIMAT0000257,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-181c-5p,MIMAT0000258,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-181d,MI0003139,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-181d-5p,MIMAT0002821,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-182-5p,MIMAT0000259,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-192-5p,MIMAT0000222,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-195-5p,MIMAT0000461,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-196b-5p,MIMAT0001080,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-200b-3p,MIMAT0000318,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-200c-3p,MIMAT0000617,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-204-5p,MIMAT0000265,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,TargetScan,Cancer-related,FALSE
+hsa-miR-20a-5p,MIMAT0000075,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-21,MI0000077,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-215-5p,MIMAT0000272,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-21-5p,MIMAT0000076,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-24-2-5p,MIMAT0004497,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-29a-3p,MIMAT0000086,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-29b-3p,MIMAT0000100,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-29c-3p,MIMAT0000681,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-33b-5p,MIMAT0003301,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-34a,MI0000268,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-34a-5p,MIMAT0000255,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-34b-5p,MIMAT0000685,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-34c-5p,MIMAT0000686,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-365a-3p,MIMAT0000710,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-375,MI0000783,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-429,MI0001641,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-449a,MI0001648,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-451a,MI0001729,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-630,MI0003644,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-7-5p,MIMAT0000252,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-miR-96-5p,MIMAT0000095,P10415,BCL2_HUMAN,Reviewed,BCL2,Apoptosis regulator Bcl-2,miTarBase,Cancer-related,FALSE
+hsa-let-7c,MI0000064,Q07817,B2CL1_HUMAN,Reviewed,BCL2L1,Bcl-2-like protein 1,miTarBase,Adrenal Cortical Cancer;Benign Adrenal Tumor,FALSE
+hsa-let-7g-5p,MIMAT0000414,Q07817,B2CL1_HUMAN,Reviewed,BCL2L1,Bcl-2-like protein 1,miTarBase,Adrenal Cortical Cancer;Benign Adrenal Tumor,FALSE
+hsa-miR-122-5p,MIMAT0000421,Q07817,B2CL1_HUMAN,Reviewed,BCL2L1,Bcl-2-like protein 1,miTarBase,Adrenal Cortical Cancer;Benign Adrenal Tumor,FALSE
+hsa-miR-133a-3p,MIMAT0000427,Q07817,B2CL1_HUMAN,Reviewed,BCL2L1,Bcl-2-like protein 1,miTarBase,Adrenal Cortical Cancer;Benign Adrenal Tumor,FALSE
+hsa-miR-23b-3p,MIMAT0000418,Q07817,B2CL1_HUMAN,Reviewed,BCL2L1,Bcl-2-like protein 1,miTarBase,Adrenal Cortical Cancer;Benign Adrenal Tumor,FALSE
+hsa-miR-30a-5p,MIMAT0000087,Q07817,B2CL1_HUMAN,Reviewed,BCL2L1,Bcl-2-like protein 1,miTarBase,Adrenal Cortical Cancer;Benign Adrenal Tumor,FALSE
+hsa-miR-484,MI0002468,Q07817,B2CL1_HUMAN,Reviewed,BCL2L1,Bcl-2-like protein 1,miTarBase,Adrenal Cortical Cancer;Benign Adrenal Tumor,FALSE
+hsa-miR-491-5p,MIMAT0002807,Q07817,B2CL1_HUMAN,Reviewed,BCL2L1,Bcl-2-like protein 1,miTarBase,Adrenal Cortical Cancer;Benign Adrenal Tumor,FALSE
+hsa-miR-100-5p,MIMAT0000098,Q14457,BECN1_HUMAN,Reviewed,BECN1,Beclin-1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-30a-5p,MIMAT0000087,Q14457,BECN1_HUMAN,Reviewed,BECN1,Beclin-1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-376b,MI0002466,Q14457,BECN1_HUMAN,Reviewed,BECN1,Beclin-1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-376b,MI0002466,Q14457,BECN1_HUMAN,Reviewed,BECN1,Beclin-1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-376b,MI0002466,Q14457,BECN1_HUMAN,Reviewed,BECN1,Beclin-1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-519a,MI0003178,Q14457,BECN1_HUMAN,Reviewed,BECN1,Beclin-1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-519a-1,MI0003178,Q14457,BECN1_HUMAN,Reviewed,BECN1,Beclin-1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-155-5p,MIMAT0000646,Q00535,CDK5_HUMAN,Reviewed,CDK5,Cyclin-dependent kinase 5,miTarBase,N/A,FALSE
+hsa-let-7g-5p,MIMAT0000414,P42771,CD2A1_HUMAN,Reviewed,CDKN2A,"Cyclin-dependent kinase inhibitor 2A, isoforms 1/2/3",miTarBase,Melanoma and neural system tumor syndrome(114550);Pancreatic Cancer/Melanoma Syndrome(606719);Orolaryngeal Cancer,FALSE
+hsa-miR-10b-5p,MIMAT0000254,P42771,CD2A1_HUMAN,Reviewed,CDKN2A,"Cyclin-dependent kinase inhibitor 2A, isoforms 1/2/3",miTarBase,Melanoma and neural system tumor syndrome(114550);Pancreatic Cancer/Melanoma Syndrome(606719);Orolaryngeal Cancer,FALSE
+hsa-miR-124-3p,MIMAT0000422,P42771,CD2A1_HUMAN,Reviewed,CDKN2A,"Cyclin-dependent kinase inhibitor 2A, isoforms 1/2/3",miTarBase,Melanoma and neural system tumor syndrome(114550);Pancreatic Cancer/Melanoma Syndrome(606719);Orolaryngeal Cancer,FALSE
+hsa-miR-125b-5p,MIMAT0000423,P42771,CD2A1_HUMAN,Reviewed,CDKN2A,"Cyclin-dependent kinase inhibitor 2A, isoforms 1/2/3",miTarBase,Melanoma and neural system tumor syndrome(114550);Pancreatic Cancer/Melanoma Syndrome(606719);Orolaryngeal Cancer,FALSE
+hsa-miR-155-5p,MIMAT0000646,P42771,CD2A1_HUMAN,Reviewed,CDKN2A,"Cyclin-dependent kinase inhibitor 2A, isoforms 1/2/3",miTarBase,Melanoma and neural system tumor syndrome(114550);Pancreatic Cancer/Melanoma Syndrome(606719);Orolaryngeal Cancer,FALSE
+hsa-miR-16-5p,MIMAT0000069,P42771,CD2A1_HUMAN,Reviewed,CDKN2A,"Cyclin-dependent kinase inhibitor 2A, isoforms 1/2/3",miTarBase,Melanoma and neural system tumor syndrome(114550);Pancreatic Cancer/Melanoma Syndrome(606719);Orolaryngeal Cancer,FALSE
+hsa-miR-192-5p,MIMAT0000222,P42771,CD2A1_HUMAN,Reviewed,CDKN2A,"Cyclin-dependent kinase inhibitor 2A, isoforms 1/2/3",miTarBase,Melanoma and neural system tumor syndrome(114550);Pancreatic Cancer/Melanoma Syndrome(606719);Orolaryngeal Cancer,FALSE
+hsa-miR-215-5p,MIMAT0000272,P42771,CD2A1_HUMAN,Reviewed,CDKN2A,"Cyclin-dependent kinase inhibitor 2A, isoforms 1/2/3",miTarBase,Melanoma and neural system tumor syndrome(114550);Pancreatic Cancer/Melanoma Syndrome(606719);Orolaryngeal Cancer,FALSE
+hsa-miR-24-3p,MIMAT0000080,P42771,CD2A1_HUMAN,Reviewed,CDKN2A,"Cyclin-dependent kinase inhibitor 2A, isoforms 1/2/3",miTarBase,Melanoma and neural system tumor syndrome(114550);Pancreatic Cancer/Melanoma Syndrome(606719);Orolaryngeal Cancer,FALSE
+hsa-miR-296-3p,MIMAT0004679,P42771,CD2A1_HUMAN,Reviewed,CDKN2A,"Cyclin-dependent kinase inhibitor 2A, isoforms 1/2/3",miTarBase,Melanoma and neural system tumor syndrome(114550);Pancreatic Cancer/Melanoma Syndrome(606719);Orolaryngeal Cancer,FALSE
+hsa-miR-320a,MI0000542,P42771,CD2A1_HUMAN,Reviewed,CDKN2A,"Cyclin-dependent kinase inhibitor 2A, isoforms 1/2/3",miTarBase,Melanoma and neural system tumor syndrome(114550);Pancreatic Cancer/Melanoma Syndrome(606719);Orolaryngeal Cancer,FALSE
+hsa-miR-34a-5p,MIMAT0000255,P42771,CD2A1_HUMAN,Reviewed,CDKN2A,"Cyclin-dependent kinase inhibitor 2A, isoforms 1/2/3",miTarBase,Melanoma and neural system tumor syndrome(114550);Pancreatic Cancer/Melanoma Syndrome(606719);Orolaryngeal Cancer,FALSE
+hsa-miR-423-5p,MIMAT0004748,P42771,CD2A1_HUMAN,Reviewed,CDKN2A,"Cyclin-dependent kinase inhibitor 2A, isoforms 1/2/3",miTarBase,Melanoma and neural system tumor syndrome(114550);Pancreatic Cancer/Melanoma Syndrome(606719);Orolaryngeal Cancer,FALSE
+hsa-miR-455-3p,MIMAT0004784,P42771,CD2A1_HUMAN,Reviewed,CDKN2A,"Cyclin-dependent kinase inhibitor 2A, isoforms 1/2/3",miTarBase,Melanoma and neural system tumor syndrome(114550);Pancreatic Cancer/Melanoma Syndrome(606719);Orolaryngeal Cancer,FALSE
+hsa-miR-615-3p,MIMAT0003283,P42771,CD2A1_HUMAN,Reviewed,CDKN2A,"Cyclin-dependent kinase inhibitor 2A, isoforms 1/2/3",miTarBase,Melanoma and neural system tumor syndrome(114550);Pancreatic Cancer/Melanoma Syndrome(606719);Orolaryngeal Cancer,FALSE
+hsa-miR-103a-3p,MIMAT0000101,P53355,DAPK1_HUMAN,Reviewed,DAPK1,Death-associated protein kinase 1,miTarBase,Bladder Cancer(109800),FALSE
+hsa-miR-107,MIMAT0000104,P53355,DAPK1_HUMAN,Reviewed,DAPK1,Death-associated protein kinase 1,miTarBase,Bladder Cancer(109800),FALSE
+hsa-miR-124-3p,MIMAT0000422,P53355,DAPK1_HUMAN,Reviewed,DAPK1,Death-associated protein kinase 1,miTarBase,Bladder Cancer(109800),FALSE
+hsa-miR-214-3p,MIMAT0000271,P53355,DAPK1_HUMAN,Reviewed,DAPK1,Death-associated protein kinase 1,miTarBase,Bladder Cancer(109800),FALSE
+hsa-miR-335-5p,MIMAT0000765,Q9UIK4,DAPK2_HUMAN,Reviewed,DAPK2,Death-associated protein kinase 2,miTarBase,Null,FALSE
+hsa-miR-17-5p,MIMAT0000070,O43293,DAPK3_HUMAN,Reviewed,DAPK3,Death-associated protein kinase 3,miTarBase,N/A,FALSE
+hsa-miR-93-5p,MIMAT0000093,O43293,DAPK3_HUMAN,Reviewed,DAPK3,Death-associated protein kinase 3,miTarBase,N/A,FALSE
+hsa-miR-17-5p,MIMAT0000070,O14681,EI24_HUMAN,Reviewed,EI24,Etoposide-induced protein 2.4 homolog,miTarBase,Cancer-related,FALSE
+hsa-miR-26b-5p,MIMAT0000083,O14681,EI24_HUMAN,Reviewed,EI24,Etoposide-induced protein 2.4 homolog,miTarBase,Cancer-related,FALSE
+hsa-miR-320a,MI0000542,O14681,EI24_HUMAN,Reviewed,EI24,Etoposide-induced protein 2.4 homolog,miTarBase,Cancer-related,FALSE
+hsa-miR-124-3p,MIMAT0000422,P19525,E2AK2_HUMAN,Reviewed,EIF2AK2,"Interferon-induced, double-stranded RNA-activated protein kinase",miTarBase,N/A,FALSE
+hsa-miR-15b-5p,MIMAT0000417,P19525,E2AK2_HUMAN,Reviewed,EIF2AK2,"Interferon-induced, double-stranded RNA-activated protein kinase",miTarBase,N/A,FALSE
+hsa-miR-375,MI0000783,P19525,E2AK2_HUMAN,Reviewed,EIF2AK2,"Interferon-induced, double-stranded RNA-activated protein kinase",miTarBase,N/A,FALSE
+hsa-miR-877-5p,MIMAT0004949,P19525,E2AK2_HUMAN,Reviewed,EIF2AK2,"Interferon-induced, double-stranded RNA-activated protein kinase",miTarBase,N/A,FALSE
+hsa-miR-26a-5p,MIMAT0000082,Q9HCE0,EPG5_HUMAN,Reviewed,EPG5,Ectopic P granules protein 5 homolog,miTarBase,N/A,FALSE
+hsa-miR-26b-5p,MIMAT0000083,O95166,GBRAP_HUMAN,Reviewed,GABARAP,Gamma-aminobutyric acid receptor-associated protein,miTarBase,N/A,FALSE
+hsa-miR-142,MI0000458,Q9H0R8,GBRL1_HUMAN,Reviewed,GABARAPL1,Gamma-aminobutyric acid receptor-associated protein-like 1,miTarBase,N/A,FALSE
+hsa-miR-30a-5p,MIMAT0000087,P60520,GBRL2_HUMAN,Reviewed,GABARAPL2,Gamma-aminobutyric acid receptor-associated protein-like 2,miTarBase,N/A,FALSE
+hsa-miR-92a-3p,MIMAT0000092,P60520,GBRL2_HUMAN,Reviewed,GABARAPL2,Gamma-aminobutyric acid receptor-associated protein-like 2,miTarBase,N/A,FALSE
+hsa-miR-103a-3p,MIMAT0000101,Q9HD26,GOPC_HUMAN,Reviewed,GOPC,Golgi-associated PDZ and coiled-coil motif-containing protein,miTarBase,N/A,FALSE
+hsa-miR-130b-3p,MIMAT0000691,Q9HD26,GOPC_HUMAN,Reviewed,GOPC,Golgi-associated PDZ and coiled-coil motif-containing protein,miTarBase,N/A,FALSE
+hsa-miR-149-5p,MIMAT0000450,Q9H2X6,HIPK2_HUMAN,Reviewed,HIPK2,Homeodomain-interacting protein kinase 2,miTarBase,Colorectal Cancer(114500),FALSE
+hsa-miR-181a-5p,MIMAT0000256,Q9H2X6,HIPK2_HUMAN,Reviewed,HIPK2,Homeodomain-interacting protein kinase 2,miTarBase,Colorectal Cancer(114500),FALSE
+hsa-miR-183-5p,MIMAT0000261,Q9H2X6,HIPK2_HUMAN,Reviewed,HIPK2,Homeodomain-interacting protein kinase 2,miTarBase,Colorectal Cancer(114500),FALSE
+hsa-miR-18a-3p,MIMAT0002891,Q9H2X6,HIPK2_HUMAN,Reviewed,HIPK2,Homeodomain-interacting protein kinase 2,miTarBase,Colorectal Cancer(114500),FALSE
+hsa-miR-222-3p,MIMAT0000279,Q9H2X6,HIPK2_HUMAN,Reviewed,HIPK2,Homeodomain-interacting protein kinase 2,miTarBase,Colorectal Cancer(114500),FALSE
+hsa-miR-27a-3p,MIMAT0000084,Q9H2X6,HIPK2_HUMAN,Reviewed,HIPK2,Homeodomain-interacting protein kinase 2,miTarBase,Colorectal Cancer(114500),FALSE
+hsa-miR-296-3p,MIMAT0004679,Q9H2X6,HIPK2_HUMAN,Reviewed,HIPK2,Homeodomain-interacting protein kinase 2,miTarBase,Colorectal Cancer(114500),FALSE
+hsa-miR-423-5p,MIMAT0004748,Q9H2X6,HIPK2_HUMAN,Reviewed,HIPK2,Homeodomain-interacting protein kinase 2,miTarBase,Colorectal Cancer(114500),FALSE
+hsa-miR-615-3p,MIMAT0003283,Q9H2X6,HIPK2_HUMAN,Reviewed,HIPK2,Homeodomain-interacting protein kinase 2,miTarBase,Colorectal Cancer(114500),FALSE
+hsa-miR-760,MI0005567,Q9H2X6,HIPK2_HUMAN,Reviewed,HIPK2,Homeodomain-interacting protein kinase 2,miTarBase,Colorectal Cancer(114500),FALSE
+hsa-miR-124-3p,MIMAT0000422,Q16666,IF16_HUMAN,Reviewed,IFI16,Gamma-interferon-inducible protein 16,miTarBase,N/A,FALSE
+hsa-miR-26b-5p,MIMAT0000083,Q16666,IF16_HUMAN,Reviewed,IFI16,Gamma-interferon-inducible protein 16,miTarBase,N/A,FALSE
+hsa-miR-335-5p,MIMAT0000765,Q16666,IF16_HUMAN,Reviewed,IFI16,Gamma-interferon-inducible protein 16,miTarBase,N/A,FALSE
+hsa-miR-98,MI0000100,Q16666,IF16_HUMAN,Reviewed,IFI16,Gamma-interferon-inducible protein 16,miTarBase,N/A,FALSE
+hsa-miR-98-5p,MIMAT0000096,Q16666,IF16_HUMAN,Reviewed,IFI16,Gamma-interferon-inducible protein 16,miTarBase,N/A,FALSE
+hsa-miR-200a-3p,MIMAT0000682,Q14145,KEAP1_HUMAN,Reviewed,KEAP1,Kelch-like ECH-associated protein 1,TargetScan,Breast Cancer(114480);Lung Cancer(211980),FALSE
+hsa-miR-26b-5p,MIMAT0000083,Q14145,KEAP1_HUMAN,Reviewed,KEAP1,Kelch-like ECH-associated protein 1,miTarBase,Breast Cancer(114480);Lung Cancer(211980),FALSE
+hsa-miR-7-5p,MIMAT0000252,Q14145,KEAP1_HUMAN,Reviewed,KEAP1,Kelch-like ECH-associated protein 1,miTarBase,Breast Cancer(114480);Lung Cancer(211980),FALSE
+hsa-miR-92b-3p,MIMAT0003218,Q14145,KEAP1_HUMAN,Reviewed,KEAP1,Kelch-like ECH-associated protein 1,miTarBase,Breast Cancer(114480);Lung Cancer(211980),FALSE
+hsa-miR-26b-5p,MIMAT0000083,Q6UXG2,K1324_HUMAN,Reviewed,KIAA1324,UPF0577 protein KIAA1324,miTarBase,Endometrial Cancer,FALSE
+hsa-miR-122-5p,MIMAT0000421,P11279,LAMP1_HUMAN,Reviewed,LAMP1,Lysosome-associated membrane glycoprotein 1,miTarBase,N/A,FALSE
+hsa-miR-1227-3p,MIMAT0005580,P11279,LAMP1_HUMAN,Reviewed,LAMP1,Lysosome-associated membrane glycoprotein 1,miTarBase,N/A,FALSE
+hsa-miR-378a-3p,MIMAT0000732,P11279,LAMP1_HUMAN,Reviewed,LAMP1,Lysosome-associated membrane glycoprotein 1,miTarBase,N/A,FALSE
+hsa-miR-484,MI0002468,P11279,LAMP1_HUMAN,Reviewed,LAMP1,Lysosome-associated membrane glycoprotein 1,miTarBase,N/A,FALSE
+hsa-miR-615-3p,MIMAT0003283,P11279,LAMP1_HUMAN,Reviewed,LAMP1,Lysosome-associated membrane glycoprotein 1,miTarBase,N/A,FALSE
+hsa-miR-205-5p,MIMAT0000266,Q5S007,LRRK2_HUMAN,Reviewed,LRRK2,Leucine-rich repeat serine/threonine-protein kinase 2,miTarBase,N/A,FALSE
+hsa-miR-335-5p,MIMAT0000765,Q5S007,LRRK2_HUMAN,Reviewed,LRRK2,Leucine-rich repeat serine/threonine-protein kinase 2,miTarBase,N/A,FALSE
+hsa-miR-103a-3p,MIMAT0000101,P46821,MAP1B_HUMAN,Reviewed,MAP1B,Microtubule-associated protein 1B,miTarBase,N/A,FALSE
+hsa-miR-106b-5p,MIMAT0000680,P46821,MAP1B_HUMAN,Reviewed,MAP1B,Microtubule-associated protein 1B,miTarBase,N/A,FALSE
+hsa-miR-107,MIMAT0000104,P46821,MAP1B_HUMAN,Reviewed,MAP1B,Microtubule-associated protein 1B,miTarBase,N/A,FALSE
+hsa-miR-126-5p,MIMAT0000444,P46821,MAP1B_HUMAN,Reviewed,MAP1B,Microtubule-associated protein 1B,miTarBase,N/A,FALSE
+hsa-miR-128,MIMAT0000424,P46821,MAP1B_HUMAN,Reviewed,MAP1B,Microtubule-associated protein 1B,TargetScan,N/A,FALSE
+hsa-miR-132-3p,MIMAT0000426,P46821,MAP1B_HUMAN,Reviewed,MAP1B,Microtubule-associated protein 1B,miTarBase,N/A,FALSE
+hsa-miR-151a-3p,MIMAT0000757,P46821,MAP1B_HUMAN,Reviewed,MAP1B,Microtubule-associated protein 1B,miTarBase,N/A,FALSE
+hsa-miR-15a-5p,MIMAT0000068,P46821,MAP1B_HUMAN,Reviewed,MAP1B,Microtubule-associated protein 1B,miTarBase,N/A,FALSE
+hsa-miR-16-5p,MIMAT0000069,P46821,MAP1B_HUMAN,Reviewed,MAP1B,Microtubule-associated protein 1B,miTarBase,N/A,FALSE
+hsa-miR-181a-5p,MIMAT0000256,P46821,MAP1B_HUMAN,Reviewed,MAP1B,Microtubule-associated protein 1B,miTarBase,N/A,FALSE
+hsa-miR-181c-5p,MIMAT0000258,P46821,MAP1B_HUMAN,Reviewed,MAP1B,Microtubule-associated protein 1B,miTarBase,N/A,FALSE
+hsa-miR-222-3p,MIMAT0000279,P46821,MAP1B_HUMAN,Reviewed,MAP1B,Microtubule-associated protein 1B,miTarBase,N/A,FALSE
+hsa-miR-22-3p,MIMAT0000077,P46821,MAP1B_HUMAN,Reviewed,MAP1B,Microtubule-associated protein 1B,miTarBase,N/A,FALSE
+hsa-miR-27a-3p,MIMAT0000084,P46821,MAP1B_HUMAN,Reviewed,MAP1B,Microtubule-associated protein 1B,miTarBase,N/A,FALSE
+hsa-miR-27b-3p,MIMAT0000419,P46821,MAP1B_HUMAN,Reviewed,MAP1B,Microtubule-associated protein 1B,miTarBase,N/A,FALSE
+hsa-miR-30d-5p,MIMAT0000245,P46821,MAP1B_HUMAN,Reviewed,MAP1B,Microtubule-associated protein 1B,miTarBase,N/A,FALSE
+hsa-miR-34a-5p,MIMAT0000255,P46821,MAP1B_HUMAN,Reviewed,MAP1B,Microtubule-associated protein 1B,miTarBase,N/A,FALSE
+hsa-miR-378a-3p,MIMAT0000732,P46821,MAP1B_HUMAN,Reviewed,MAP1B,Microtubule-associated protein 1B,miTarBase,N/A,FALSE
+hsa-miR-424-5p,MIMAT0001341,P46821,MAP1B_HUMAN,Reviewed,MAP1B,Microtubule-associated protein 1B,miTarBase,N/A,FALSE
+hsa-miR-455-3p,MIMAT0004784,P46821,MAP1B_HUMAN,Reviewed,MAP1B,Microtubule-associated protein 1B,miTarBase,N/A,FALSE
+hsa-miR-590-3p,MIMAT0004801,P46821,MAP1B_HUMAN,Reviewed,MAP1B,Microtubule-associated protein 1B,miTarBase,N/A,FALSE
+hsa-miR-7-5p,MIMAT0000252,P46821,MAP1B_HUMAN,Reviewed,MAP1B,Microtubule-associated protein 1B,miTarBase,N/A,FALSE
+hsa-miR-92a-3p,MIMAT0000092,P46821,MAP1B_HUMAN,Reviewed,MAP1B,Microtubule-associated protein 1B,miTarBase,N/A,FALSE
+hsa-miR-9-5p,MIMAT0000441,P46821,MAP1B_HUMAN,Reviewed,MAP1B,Microtubule-associated protein 1B,miTarBase,N/A,FALSE
+hsa-miR-335-5p,MIMAT0000765,Q9H492,MLP3A_HUMAN,Reviewed,MAP1LC3A,Microtubule-associated proteins 1A/1B light chain 3A,miTarBase,N/A,FALSE
+hsa-miR-192-5p,MIMAT0000222,Q9GZQ8,MLP3B_HUMAN,Reviewed,MAP1LC3B,Microtubule-associated proteins 1A/1B light chain 3B,miTarBase,N/A,FALSE
+hsa-miR-204-5p,MIMAT0000265,Q9GZQ8,MLP3B_HUMAN,Reviewed,MAP1LC3B,Microtubule-associated proteins 1A/1B light chain 3B,miTarBase,N/A,FALSE
+hsa-miR-215-5p,MIMAT0000272,Q9GZQ8,MLP3B_HUMAN,Reviewed,MAP1LC3B,Microtubule-associated proteins 1A/1B light chain 3B,miTarBase,N/A,FALSE
+hsa-miR-30a-5p,MIMAT0000087,Q9GZQ8,MLP3B_HUMAN,Reviewed,MAP1LC3B,Microtubule-associated proteins 1A/1B light chain 3B,miTarBase,N/A,FALSE
+hsa-miR-335-5p,MIMAT0000765,Q9GZQ8,MLP3B_HUMAN,Reviewed,MAP1LC3B,Microtubule-associated proteins 1A/1B light chain 3B,miTarBase,N/A,FALSE
+hsa-miR-21,MI0000077,Q9GZQ8,MLP3B_HUMAN,Reviewed,"MAP1LC3B,MAP1ALC3","Microtubule-associated proteins 1A/1B light chain 3B,Autophagy-related protein LC3 B,Autophagy-related ubiquitin-like modifier LC3 B,MAP1 light chain 3-like protein 2,MAP1A/MAP1B light chain 3 B,Microtubule-associated protein 1 light chain 3 beta",TargetScan,N/A,FALSE
+hsa-miR-124-3p,MIMAT0000422,Q16539,MK14_HUMAN,Reviewed,MAPK14,Mitogen-activated protein kinase 14,miTarBase,Hepatocelluar Carcinoma(114550),FALSE
+hsa-miR-125b-5p,MIMAT0000423,Q16539,MK14_HUMAN,Reviewed,MAPK14,Mitogen-activated protein kinase 14,miTarBase,Hepatocelluar Carcinoma(114550),FALSE
+hsa-miR-141-3p,MIMAT0000432,Q16539,MK14_HUMAN,Reviewed,MAPK14,Mitogen-activated protein kinase 14,miTarBase,Hepatocelluar Carcinoma(114550),FALSE
+hsa-miR-199a-3p,MIMAT0000232,Q16539,MK14_HUMAN,Reviewed,MAPK14,Mitogen-activated protein kinase 14,miTarBase,Hepatocelluar Carcinoma(114550),FALSE
+hsa-miR-200a-3p,MIMAT0000682,Q16539,MK14_HUMAN,Reviewed,MAPK14,Mitogen-activated protein kinase 14,miTarBase,Hepatocelluar Carcinoma(114550),FALSE
+hsa-miR-24-3p,MIMAT0000080,Q16539,MK14_HUMAN,Reviewed,MAPK14,Mitogen-activated protein kinase 14,miTarBase,Hepatocelluar Carcinoma(114550),FALSE
+hsa-miR-10a-5p,MIMAT0000253,P45983,MK08_HUMAN,Reviewed,MAPK8,Mitogen-activated protein kinase 8,miTarBase,N/A,FALSE
+hsa-miR-125a-5p,MIMAT0000443,P45983,MK08_HUMAN,Reviewed,MAPK8,Mitogen-activated protein kinase 8,miTarBase,N/A,FALSE
+hsa-miR-140-3p,MIMAT0004597,P45983,MK08_HUMAN,Reviewed,MAPK8,Mitogen-activated protein kinase 8,miTarBase,N/A,FALSE
+hsa-miR-193b-3p,MIMAT0002819,P45983,MK08_HUMAN,Reviewed,MAPK8,Mitogen-activated protein kinase 8,miTarBase,N/A,FALSE
+hsa-miR-199a-3p,MIMAT0000232,P45983,MK08_HUMAN,Reviewed,MAPK8,Mitogen-activated protein kinase 8,miTarBase,N/A,FALSE
+hsa-miR-214-3p,MIMAT0000271,P45983,MK08_HUMAN,Reviewed,MAPK8,Mitogen-activated protein kinase 8,miTarBase,N/A,FALSE
+hsa-miR-33a-5p,MIMAT0000091,P45983,MK08_HUMAN,Reviewed,MAPK8,Mitogen-activated protein kinase 8,miTarBase,N/A,FALSE
+hsa-miR-421,MI0003685,P45983,MK08_HUMAN,Reviewed,MAPK8,Mitogen-activated protein kinase 8,TargetScan,N/A,FALSE
+hsa-miR-877-5p,MIMAT0004949,P45983,MK08_HUMAN,Reviewed,MAPK8,Mitogen-activated protein kinase 8,miTarBase,N/A,FALSE
+hsa-miR-106b-5p,MIMAT0000680,Q86UE4,LYRIC_HUMAN,Reviewed,MTDH,Protein LYRIC,miTarBase,Breast Cancer(114480);Prostate Cancer(176807),FALSE
+hsa-miR-136-5p,MIMAT0000448,Q86UE4,LYRIC_HUMAN,Reviewed,MTDH,Protein LYRIC,miTarBase,Breast Cancer(114480);Prostate Cancer(176807),FALSE
+hsa-miR-139-3p,MIMAT0004552,Q86UE4,LYRIC_HUMAN,Reviewed,MTDH,Protein LYRIC,miTarBase,Breast Cancer(114480);Prostate Cancer(176807),FALSE
+hsa-miR-17-5p,MIMAT0000070,Q86UE4,LYRIC_HUMAN,Reviewed,MTDH,Protein LYRIC,miTarBase,Breast Cancer(114480);Prostate Cancer(176807),FALSE
+hsa-miR-192-5p,MIMAT0000222,Q86UE4,LYRIC_HUMAN,Reviewed,MTDH,Protein LYRIC,miTarBase,Breast Cancer(114480);Prostate Cancer(176807),FALSE
+hsa-miR-20a-5p,MIMAT0000075,Q86UE4,LYRIC_HUMAN,Reviewed,MTDH,Protein LYRIC,miTarBase,Breast Cancer(114480);Prostate Cancer(176807),FALSE
+hsa-miR-215-5p,MIMAT0000272,Q86UE4,LYRIC_HUMAN,Reviewed,MTDH,Protein LYRIC,miTarBase,Breast Cancer(114480);Prostate Cancer(176807),FALSE
+hsa-miR-26a-5p,MIMAT0000082,Q86UE4,LYRIC_HUMAN,Reviewed,MTDH,Protein LYRIC,miTarBase,Breast Cancer(114480);Prostate Cancer(176807),FALSE
+hsa-miR-30a-5p,MIMAT0000087,Q86UE4,LYRIC_HUMAN,Reviewed,MTDH,Protein LYRIC,miTarBase,Breast Cancer(114480);Prostate Cancer(176807),FALSE
+hsa-miR-30c-5p,MIMAT0000244,Q86UE4,LYRIC_HUMAN,Reviewed,MTDH,Protein LYRIC,miTarBase,Breast Cancer(114480);Prostate Cancer(176807),FALSE
+hsa-miR-34a-5p,MIMAT0000255,Q86UE4,LYRIC_HUMAN,Reviewed,MTDH,Protein LYRIC,miTarBase,Breast Cancer(114480);Prostate Cancer(176807),FALSE
+hsa-miR-375,MI0000783,Q86UE4,LYRIC_HUMAN,Reviewed,MTDH,Protein LYRIC,miTarBase,Breast Cancer(114480);Prostate Cancer(176807),FALSE
+hsa-miR-93-5p,MIMAT0000093,Q86UE4,LYRIC_HUMAN,Reviewed,MTDH,Protein LYRIC,miTarBase,Breast Cancer(114480);Prostate Cancer(176807),FALSE
+hsa-miR-100-5p,MIMAT0000098,P42345,MTOR_HUMAN,Reviewed,MTOR,Serine/threonine-protein kinase mTOR,miTarBase,Cancer-related,FALSE
+hsa-miR-144-3p,MIMAT0000436,P42345,MTOR_HUMAN,Reviewed,MTOR,Serine/threonine-protein kinase mTOR,miTarBase,Cancer-related,FALSE
+hsa-miR-16-5p,MIMAT0000069,P42345,MTOR_HUMAN,Reviewed,MTOR,Serine/threonine-protein kinase mTOR,miTarBase,Cancer-related,FALSE
+hsa-miR-181b-5p,MIMAT0000257,P42345,MTOR_HUMAN,Reviewed,MTOR,Serine/threonine-protein kinase mTOR,miTarBase,Cancer-related,FALSE
+hsa-miR-744-5p,MIMAT0004945,P42345,MTOR_HUMAN,Reviewed,MTOR,Serine/threonine-protein kinase mTOR,miTarBase,Cancer-related,FALSE
+hsa-miR-99a-5p,MIMAT0000097,P42345,MTOR_HUMAN,Reviewed,MTOR,Serine/threonine-protein kinase mTOR,miTarBase,Cancer-related,FALSE
+hsa-miR-99b-5p,MIMAT0000689,P42345,MTOR_HUMAN,Reviewed,MTOR,Serine/threonine-protein kinase mTOR,miTarBase,Cancer-related,FALSE
+hsa-miR-17-3p,MIMAT0000071,Q96CV9,OPTN_HUMAN,Reviewed,OPTN,Optineurin,miTarBase,N/A,FALSE
+hsa-miR-17-5p,MIMAT0000070,Q96CV9,OPTN_HUMAN,Reviewed,OPTN,Optineurin,miTarBase,N/A,FALSE
+hsa-miR-335-5p,MIMAT0000765,Q96CV9,OPTN_HUMAN,Reviewed,OPTN,Optineurin,miTarBase,N/A,FALSE
+hsa-miR-92a-3p,MIMAT0000092,Q96CV9,OPTN_HUMAN,Reviewed,OPTN,Optineurin,miTarBase,N/A,FALSE
+hsa-miR-9-5p,MIMAT0000441,Q96CV9,OPTN_HUMAN,Reviewed,OPTN,Optineurin,miTarBase,N/A,FALSE
+hsa-miR-26b-5p,MIMAT0000083,O60260,PRKN2_HUMAN,Reviewed,PARK2,E3 ubiquitin-protein ligase parkin,miTarBase,Breast Cancer(114480);Hepatocelluar Carcinoma(114550);Ovarian Cancer(167000);Glioblastoma Multiforme (GBM;see 137800);Lung Cancer(211980);Colon Cancer (114500);,FALSE
+hsa-miR-335-5p,MIMAT0000765,O60260,PRKN2_HUMAN,Reviewed,PARK2,E3 ubiquitin-protein ligase parkin,miTarBase,Breast Cancer(114480);Hepatocelluar Carcinoma(114550);Ovarian Cancer(167000);Glioblastoma Multiforme (GBM;see 137800);Lung Cancer(211980);Colon Cancer (114500),FALSE
+hsa-miR-130b-5p,MIMAT0004680,Q99497,PARK7_HUMAN,Reviewed,PARK7,Protein DJ-1,miTarBase,N/A,FALSE
+hsa-miR-222-3p,MIMAT0000279,Q99497,PARK7_HUMAN,Reviewed,PARK7,Protein DJ-1,miTarBase,N/A,FALSE
+hsa-miR-26b-5p,MIMAT0000083,Q99497,PARK7_HUMAN,Reviewed,PARK7,Protein DJ-1,miTarBase,N/A,FALSE
+hsa-miR-7-5p,MIMAT0000252,Q99497,PARK7_HUMAN,Reviewed,PARK7,Protein DJ-1,miTarBase,N/A,FALSE
+hsa-miR-92a-3p,MIMAT0000092,Q99497,PARK7_HUMAN,Reviewed,PARK7,Protein DJ-1,miTarBase,N/A,FALSE
+hsa-miR-92b-3p,MIMAT0003218,Q99497,PARK7_HUMAN,Reviewed,PARK7,Protein DJ-1,miTarBase,N/A,FALSE
+hsa-miR-96-5p,MIMAT0000095,Q99497,PARK7_HUMAN,Reviewed,PARK7,Protein DJ-1,miTarBase,N/A,FALSE
+hsa-miR-33a-5p,MIMAT0000091,Q15154,PCM1_HUMAN,Reviewed,PCM1,Pericentriolar material 1 protein,miTarBase,Colorectal Cancer(114500);Hepatocelluar Carcinoma(114550);non-small-cell Lung Cancers(211980);Thyroid Carcinoma Papillary(188550),FALSE
+hsa-miR-1226-3p,MIMAT0005577,Q99570,PI3R4_HUMAN,Reviewed,PIK3R4,Phosphoinositide 3-kinase regulatory subunit 4,miTarBase,N/A,FALSE
+hsa-miR-192-5p,MIMAT0000222,Q99570,PI3R4_HUMAN,Reviewed,PIK3R4,Phosphoinositide 3-kinase regulatory subunit 4,miTarBase,N/A,FALSE
+hsa-miR-330-3p,MIMAT0000751,Q99570,PI3R4_HUMAN,Reviewed,PIK3R4,Phosphoinositide 3-kinase regulatory subunit 4,miTarBase,N/A,FALSE
+hsa-miR-503-5p,MIMAT0002874,Q99570,PI3R4_HUMAN,Reviewed,PIK3R4,Phosphoinositide 3-kinase regulatory subunit 4,miTarBase,N/A,FALSE
+hsa-miR-1226-3p,MIMAT0005577,Q9P1W9,PIM2_HUMAN,Reviewed,PIM2,Serine/threonine-protein kinase pim-2,miTarBase,N/A,FALSE
+hsa-miR-24-3p,MIMAT0000080,Q9P1W9,PIM2_HUMAN,Reviewed,PIM2,Serine/threonine-protein kinase pim-2,miTarBase,N/A,FALSE
+hsa-miR-26b-5p,MIMAT0000083,Q9P1W9,PIM2_HUMAN,Reviewed,PIM2,Serine/threonine-protein kinase pim-2,miTarBase,N/A,FALSE
+hsa-miR-122-5p,MIMAT0000421,P14618,KPYM_HUMAN,Reviewed,PKM,Pyruvate kinase PKM,miTarBase,Lung Cancer(211980);Cancer-related,FALSE
+hsa-miR-125b-5p,MIMAT0000423,P14618,KPYM_HUMAN,Reviewed,PKM,Pyruvate kinase PKM,miTarBase,Lung Cancer(211980);Cancer-related,FALSE
+hsa-miR-1260b,MIMAT0015041,P14618,KPYM_HUMAN,Reviewed,PKM,Pyruvate kinase PKM,miTarBase,Lung Cancer(211980);Cancer-related,FALSE
+hsa-miR-1301-3p,MIMAT0005797,P14618,KPYM_HUMAN,Reviewed,PKM,Pyruvate kinase PKM,miTarBase,Lung Cancer(211980);Cancer-related,FALSE
+hsa-miR-133a,MIMAT0000427,P14618,KPYM_HUMAN,Reviewed,PKM,Pyruvate kinase PKM,miTarBase,Lung Cancer(211980);Cancer-related,FALSE
+hsa-miR-133a-3p,MIMAT0000427,P14618,KPYM_HUMAN,Reviewed,PKM,Pyruvate kinase PKM,miTarBase,Lung Cancer(211980);Cancer-related,FALSE
+hsa-miR-133b,MIMAT0000770,P14618,KPYM_HUMAN,Reviewed,PKM,Pyruvate kinase PKM,miTarBase,Lung Cancer(211980);Cancer-related,FALSE
+hsa-miR-18a-3p,MIMAT0002891,P14618,KPYM_HUMAN,Reviewed,PKM,Pyruvate kinase PKM,miTarBase,Lung Cancer(211980);Cancer-related,FALSE
+hsa-miR-221-3p,MIMAT0000278,P14618,KPYM_HUMAN,Reviewed,PKM,Pyruvate kinase PKM,miTarBase,Lung Cancer(211980);Cancer-related,FALSE
+hsa-miR-222-3p,MIMAT0000279,P14618,KPYM_HUMAN,Reviewed,PKM,Pyruvate kinase PKM,miTarBase,Lung Cancer(211980);Cancer-related,FALSE
+hsa-miR-23a-3p,MIMAT0000078,P14618,KPYM_HUMAN,Reviewed,PKM,Pyruvate kinase PKM,miTarBase,Lung Cancer(211980);Cancer-related,FALSE
+hsa-miR-296-3p,MIMAT0004679,P14618,KPYM_HUMAN,Reviewed,PKM,Pyruvate kinase PKM,miTarBase,Lung Cancer(211980);Cancer-related,FALSE
+hsa-miR-30a-5p,MIMAT0000087,P14618,KPYM_HUMAN,Reviewed,PKM,Pyruvate kinase PKM,miTarBase,Lung Cancer(211980);Cancer-related,FALSE
+hsa-miR-30c-5p,MIMAT0000244,P14618,KPYM_HUMAN,Reviewed,PKM,Pyruvate kinase PKM,miTarBase,Lung Cancer(211980);Cancer-related,FALSE
+hsa-miR-3187-3p,MIMAT0015069,P14618,KPYM_HUMAN,Reviewed,PKM,Pyruvate kinase PKM,miTarBase,Lung Cancer(211980);Cancer-related,FALSE
+hsa-miR-320a,MI0000542,P14618,KPYM_HUMAN,Reviewed,PKM,Pyruvate kinase PKM,miTarBase,Lung Cancer(211980);Cancer-related,FALSE
+hsa-miR-324-3p,MIMAT0000762,P14618,KPYM_HUMAN,Reviewed,PKM,Pyruvate kinase PKM,miTarBase,Lung Cancer(211980);Cancer-related,FALSE
+hsa-miR-326,MI0000808,P14618,KPYM_HUMAN,Reviewed,PKM,Pyruvate kinase PKM,miTarBase,Lung Cancer(211980);Cancer-related,FALSE
+hsa-miR-328-3p,MIMAT0000752,P14618,KPYM_HUMAN,Reviewed,PKM,Pyruvate kinase PKM,miTarBase,Lung Cancer(211980);Cancer-related,FALSE
+hsa-miR-330-3p,MIMAT0000751,P14618,KPYM_HUMAN,Reviewed,PKM,Pyruvate kinase PKM,miTarBase,Lung Cancer(211980);Cancer-related,FALSE
+hsa-miR-423-3p,MIMAT0001340,P14618,KPYM_HUMAN,Reviewed,PKM,Pyruvate kinase PKM,miTarBase,Lung Cancer(211980);Cancer-related,FALSE
+hsa-miR-423-5p,MIMAT0004748,P14618,KPYM_HUMAN,Reviewed,PKM,Pyruvate kinase PKM,miTarBase,Lung Cancer(211980);Cancer-related,FALSE
+hsa-miR-484,MI0002468,P14618,KPYM_HUMAN,Reviewed,PKM,Pyruvate kinase PKM,TargetScan,Lung Cancer(211980);Cancer-related,FALSE
+hsa-miR-766-3p,MIMAT0003888,P14618,KPYM_HUMAN,Reviewed,PKM,Pyruvate kinase PKM,miTarBase,Lung Cancer(211980);Cancer-related,FALSE
+hsa-miR-769-5p,MIMAT0003886,P14618,KPYM_HUMAN,Reviewed,PKM,Pyruvate kinase PKM,miTarBase,Lung Cancer(211980);Cancer-related,FALSE
+hsa-miR-877-3p,MIMAT0004950,P14618,KPYM_HUMAN,Reviewed,PKM,Pyruvate kinase PKM,miTarBase,Lung Cancer(211980);Cancer-related,FALSE
+hsa-miR-92a-3p,MIMAT0000092,P14618,KPYM_HUMAN,Reviewed,PKM,Pyruvate kinase PKM,miTarBase,Lung Cancer(211980);Cancer-related,FALSE
+hsa-miR-935,MI0005757,P14618,KPYM_HUMAN,Reviewed,PKM,Pyruvate kinase PKM,TargetScan,Lung Cancer(211980);Cancer-related,FALSE
+hsa-miR-128,MIMAT0000424,Q13131,AAPK1_HUMAN,Reviewed,PRKAA1,5'-AMP-activated protein kinase catalytic subunit alpha-1,miTarBase,N/A,FALSE
+hsa-miR-128-3p,MIMAT0000424,Q13131,AAPK1_HUMAN,Reviewed,PRKAA1,5'-AMP-activated protein kinase catalytic subunit alpha-1,miTarBase,N/A,FALSE
+hsa-miR-130b-3p,MIMAT0000691,Q13131,AAPK1_HUMAN,Reviewed,PRKAA1,5'-AMP-activated protein kinase catalytic subunit alpha-1,miTarBase,N/A,FALSE
+hsa-miR-148b-3p,MIMAT0000759,Q13131,AAPK1_HUMAN,Reviewed,PRKAA1,5'-AMP-activated protein kinase catalytic subunit alpha-1,miTarBase,N/A,FALSE
+hsa-miR-19b-3p,MIMAT0000074,Q13131,AAPK1_HUMAN,Reviewed,PRKAA1,5'-AMP-activated protein kinase catalytic subunit alpha-1,miTarBase,N/A,FALSE
+hsa-miR-218-5p,MIMAT0000275,Q13131,AAPK1_HUMAN,Reviewed,PRKAA1,5'-AMP-activated protein kinase catalytic subunit alpha-1,miTarBase,N/A,FALSE
+hsa-miR-26a-5p,MIMAT0000082,Q13131,AAPK1_HUMAN,Reviewed,PRKAA1,5'-AMP-activated protein kinase catalytic subunit alpha-1,miTarBase,N/A,FALSE
+hsa-miR-26b-5p,MIMAT0000083,Q13131,AAPK1_HUMAN,Reviewed,PRKAA1,5'-AMP-activated protein kinase catalytic subunit alpha-1,miTarBase,N/A,FALSE
+hsa-miR-29b-3p,MIMAT0000100,Q13131,AAPK1_HUMAN,Reviewed,PRKAA1,5'-AMP-activated protein kinase catalytic subunit alpha-1,miTarBase,N/A,FALSE
+hsa-mir-301a,MI0000745,Q13131,AAPK1_HUMAN,Reviewed,PRKAA1,5'-AMP-activated protein kinase catalytic subunit alpha-1,TargetScan,N/A,FALSE
+hsa-miR-30a-5p,MIMAT0000087,Q13131,AAPK1_HUMAN,Reviewed,PRKAA1,5'-AMP-activated protein kinase catalytic subunit alpha-1,miTarBase,N/A,FALSE
+hsa-miR-30e-5p,MIMAT0000692,Q13131,AAPK1_HUMAN,Reviewed,PRKAA1,5'-AMP-activated protein kinase catalytic subunit alpha-1,miTarBase,N/A,FALSE
+hsa-miR-421,MI0003685,Q13131,AAPK1_HUMAN,Reviewed,PRKAA1,5'-AMP-activated protein kinase catalytic subunit alpha-1,TargetScan,N/A,FALSE
+hsa-miR-652-3p,MIMAT0003322,Q13131,AAPK1_HUMAN,Reviewed,PRKAA1,5'-AMP-activated protein kinase catalytic subunit alpha-1,miTarBase,N/A,FALSE
+hsa-let-7b-5p,MIMAT0000063,P54646,AAPK2_HUMAN,Reviewed,PRKAA2,5'-AMP-activated protein kinase catalytic subunit alpha-2,miTarBase,N/A,FALSE
+hsa-miR-182-5p,MIMAT0000259,P54646,AAPK2_HUMAN,Reviewed,PRKAA2,5'-AMP-activated protein kinase catalytic subunit alpha-2,miTarBase,N/A,FALSE
+hsa-miR-192-5p,MIMAT0000222,P54646,AAPK2_HUMAN,Reviewed,PRKAA2,5'-AMP-activated protein kinase catalytic subunit alpha-2,miTarBase,N/A,FALSE
+hsa-mir-301a,MI0000745,P54646,AAPK2_HUMAN,Reviewed,PRKAA2,5'-AMP-activated protein kinase catalytic subunit alpha-2,TargetScan,N/A,FALSE
+hsa-miR-98,MI0000100,P54646,AAPK2_HUMAN,Reviewed,PRKAA2,5'-AMP-activated protein kinase catalytic subunit alpha-2,TargetScan,N/A,FALSE
+hsa-miR-98-5p,MIMAT0000096,P54646,AAPK2_HUMAN,Reviewed,PRKAA2,5'-AMP-activated protein kinase catalytic subunit alpha-2,miTarBase,N/A,FALSE
+hsa-miR-1,MIMAT0000416,P54619,AAKG1_HUMAN,Reviewed,PRKAG1,5'-AMP-activated protein kinase subunit gamma-1,miTarBase,N/A,FALSE
+hsa-miR-124-3p,MIMAT0000422,P54619,AAKG1_HUMAN,Reviewed,PRKAG1,5'-AMP-activated protein kinase subunit gamma-1,miTarBase,N/A,FALSE
+hsa-miR-125b-5p,MIMAT0000423,P54619,AAKG1_HUMAN,Reviewed,PRKAG1,5'-AMP-activated protein kinase subunit gamma-1,miTarBase,N/A,FALSE
+hsa-miR-877-3p,MIMAT0004950,P54619,AAKG1_HUMAN,Reviewed,PRKAG1,5'-AMP-activated protein kinase subunit gamma-1,miTarBase,N/A,FALSE
+hsa-miR-133b,MIMAT0000770,Q8TDY2,RBCC1_HUMAN,Reviewed,RB1CC1,RB1-inducible coiled-coil protein 1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-193b-3p,MIMAT0002819,Q8TDY2,RBCC1_HUMAN,Reviewed,RB1CC1,RB1-inducible coiled-coil protein 1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-375,MI0000783,Q8TDY2,RBCC1_HUMAN,Reviewed,RB1CC1,RB1-inducible coiled-coil protein 1,TargetScan,Breast Cancer(114480),FALSE
+hsa-miR-98,MI0000100,Q8TDY2,RBCC1_HUMAN,Reviewed,RB1CC1,RB1-inducible coiled-coil protein 1,TargetScan,Breast Cancer(114480),FALSE
+hsa-miR-98-5p,MIMAT0000096,Q8TDY2,RBCC1_HUMAN,Reviewed,RB1CC1,RB1-inducible coiled-coil protein 1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-125b-5p,MIMAT0000423,P49795,RGS19_HUMAN,Reviewed,RGS19,Regulator of G-protein signaling 19,miTarBase,N/A,FALSE
+hsa-miR-98,MI0000100,P49795,RGS19_HUMAN,Reviewed,RGS19,Regulator of G-protein signaling 19,TargetScan,N/A,FALSE
+hsa-miR-98-5p,MIMAT0000096,P49795,RGS19_HUMAN,Reviewed,RGS19,Regulator of G-protein signaling 19,miTarBase,N/A,FALSE
+hsa-miR-124-3p,MIMAT0000422,Q96CC6,RHDF1_HUMAN,Reviewed,RHBDF1,Inactive rhomboid protein 1,miTarBase,N/A,FALSE
+hsa-miR-335-5p,MIMAT0000765,Q6PJF5,RHDF2_HUMAN,Reviewed,RHBDF2,Inactive rhomboid protein 2,miTarBase,Tylosis with esophageal cancer(148500),FALSE
+hsa-miR-7-5p,MIMAT0000252,Q6PJF5,RHDF2_HUMAN,Reviewed,RHBDF2,Inactive rhomboid protein 2,miTarBase,Tylosis with esophageal cancer(148500),FALSE
+hsa-miR-27a-3p,MIMAT0000084,Q8N122,RPTOR_HUMAN,Reviewed,RPTOR,Regulatory-associated protein of mTOR,miTarBase,Cancer-related,FALSE
+hsa-miR-27b-3p,MIMAT0000419,Q8N122,RPTOR_HUMAN,Reviewed,RPTOR,Regulatory-associated protein of mTOR,miTarBase,Cancer-related,FALSE
+hsa-miR-125b-5p,MIMAT0000423,P05109,S10A8_HUMAN,Reviewed,S100A8,Protein S100-A8,miTarBase,Cancer-related,FALSE
+hsa-miR-98,MI0000100,P05109,S10A8_HUMAN,Reviewed,S100A8,Protein S100-A8,TargetScan,Cancer-related,FALSE
+hsa-miR-98-5p,MIMAT0000096,P05109,S10A8_HUMAN,Reviewed,S100A8,Protein S100-A8,miTarBase,Cancer-related,FALSE
+hsa-miR-196a-5p,MIMAT0000226,P06702,S10A9_HUMAN,Reviewed,S100A9,Protein S100-A9,miTarBase,Cancer-related,FALSE
+hsa-miR-1229-3p,MIMAT0005584,Q9H0K1,SIK2_HUMAN,Reviewed,SIK2,Serine/threonine-protein kinase SIK2,miTarBase,N/A,FALSE
+hsa-miR-125b-5p,MIMAT0000423,Q9H0K1,SIK2_HUMAN,Reviewed,SIK2,Serine/threonine-protein kinase SIK2,miTarBase,N/A,FALSE
+hsa-miR-181a-5p,MIMAT0000256,Q9H0K1,SIK2_HUMAN,Reviewed,SIK2,Serine/threonine-protein kinase SIK2,miTarBase,N/A,FALSE
+hsa-miR-124-3p,MIMAT0000422,Q96FS4,SIPA1_HUMAN,Reviewed,SIPA1,Signal-induced proliferation-associated protein 1,miTarBase,N/A,FALSE
+hsa-let-7c-5p,MIMAT0000064,Q96EB6,SIR1_HUMAN,Reviewed,SIRT1,NAD-dependent protein deacetylase sirtuin-1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-128-3p,MIMAT0000424,Q96EB6,SIR1_HUMAN,Reviewed,SIRT1,NAD-dependent protein deacetylase sirtuin-1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-132-3p,MIMAT0000426,Q96EB6,SIR1_HUMAN,Reviewed,SIRT1,NAD-dependent protein deacetylase sirtuin-1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-138-5p,MIMAT0000430,Q96EB6,SIR1_HUMAN,Reviewed,SIRT1,NAD-dependent protein deacetylase sirtuin-1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-181a-5p,MIMAT0000256,Q96EB6,SIR1_HUMAN,Reviewed,SIRT1,NAD-dependent protein deacetylase sirtuin-1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-181b-5p,MIMAT0000257,Q96EB6,SIR1_HUMAN,Reviewed,SIRT1,NAD-dependent protein deacetylase sirtuin-1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-181c-5p,MIMAT0000258,Q96EB6,SIR1_HUMAN,Reviewed,SIRT1,NAD-dependent protein deacetylase sirtuin-1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-192-5p,MIMAT0000222,Q96EB6,SIR1_HUMAN,Reviewed,SIRT1,NAD-dependent protein deacetylase sirtuin-1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-199a-5p,MIMAT0000231,Q96EB6,SIR1_HUMAN,Reviewed,SIRT1,NAD-dependent protein deacetylase sirtuin-1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-215-5p,MIMAT0000272,Q96EB6,SIR1_HUMAN,Reviewed,SIRT1,NAD-dependent protein deacetylase sirtuin-1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-216a,MI0000292,Q96EB6,SIR1_HUMAN,Reviewed,SIRT1,NAD-dependent protein deacetylase sirtuin-1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-216a-5p,MIMAT0000273,Q96EB6,SIR1_HUMAN,Reviewed,SIRT1,NAD-dependent protein deacetylase sirtuin-1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-217,MI0000293,Q96EB6,SIR1_HUMAN,Reviewed,SIRT1,NAD-dependent protein deacetylase sirtuin-1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-331-3p,MIMAT0000760,Q96EB6,SIR1_HUMAN,Reviewed,SIRT1,NAD-dependent protein deacetylase sirtuin-1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-34a-5p,MIMAT0000255,Q96EB6,SIR1_HUMAN,Reviewed,SIRT1,NAD-dependent protein deacetylase sirtuin-1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-449a,MI0001648,Q96EB6,SIR1_HUMAN,Reviewed,SIRT1,NAD-dependent protein deacetylase sirtuin-1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-449b-5p,MIMAT0003327,Q96EB6,SIR1_HUMAN,Reviewed,SIRT1,NAD-dependent protein deacetylase sirtuin-1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-9-5p,MIMAT0000441,Q96EB6,SIR1_HUMAN,Reviewed,SIRT1,NAD-dependent protein deacetylase sirtuin-1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-7-5p,MIMAT0000252,Q8IXJ6,SIR2_HUMAN,Reviewed,SIRT2,NAD-dependent protein deacetylase sirtuin-2,miTarBase,Cancer-related,FALSE
+hsa-miR-101-3p,MIMAT0000099,Q13501,SQSTM_HUMAN,Reviewed,SQSTM1,Sequestosome-1,miTarBase,Renal Cell Carcinoma(144770),FALSE
+hsa-miR-126-3p,MIMAT0000445,Q13501,SQSTM_HUMAN,Reviewed,SQSTM1,Sequestosome-1,miTarBase,Renal Cell Carcinoma(144770),FALSE
+hsa-miR-16-5p,MIMAT0000069,Q13501,SQSTM_HUMAN,Reviewed,SQSTM1,Sequestosome-1,miTarBase,Renal Cell Carcinoma(144770),FALSE
+hsa-miR-335-5p,MIMAT0000765,Q13501,SQSTM_HUMAN,Reviewed,SQSTM1,Sequestosome-1,miTarBase,Renal Cell Carcinoma(144770),FALSE
+hsa-miR-378a-3p,MIMAT0000732,Q13501,SQSTM_HUMAN,Reviewed,SQSTM1,Sequestosome-1,miTarBase,Renal Cell Carcinoma(144770),FALSE
+hsa-miR-423-5p,MIMAT0004748,Q13501,SQSTM_HUMAN,Reviewed,SQSTM1,Sequestosome-1,miTarBase,Renal Cell Carcinoma(144770),FALSE
+hsa-miR-484,MI0002468,Q13501,SQSTM_HUMAN,Reviewed,SQSTM1,Sequestosome-1,miTarBase,Renal Cell Carcinoma(144770),FALSE
+hsa-miR-7-5p,MIMAT0000252,Q13501,SQSTM_HUMAN,Reviewed,SQSTM1,Sequestosome-1,miTarBase,Renal Cell Carcinoma(144770),FALSE
+hsa-miR-769-5p,MIMAT0003886,Q13501,SQSTM_HUMAN,Reviewed,SQSTM1,Sequestosome-1,miTarBase,Renal Cell Carcinoma(144770),FALSE
+hsa-miR-877-5p,MIMAT0004949,Q13501,SQSTM_HUMAN,Reviewed,SQSTM1,Sequestosome-1,miTarBase,Renal Cell Carcinoma(144770),FALSE
+hsa-let-7e-5p,MIMAT0000066,P40763,STAT3_HUMAN,Reviewed,STAT3,Signal transducer and activator of transcription 3,miTarBase,Prostate Cancer(176807);Cancer-related,FALSE
+hsa-miR-125b-5p,MIMAT0000423,P40763,STAT3_HUMAN,Reviewed,STAT3,Signal transducer and activator of transcription 3,miTarBase,Prostate Cancer(176807);Cancer-related,FALSE
+hsa-miR-155-5p,MIMAT0000646,P40763,STAT3_HUMAN,Reviewed,STAT3,Signal transducer and activator of transcription 3,miTarBase,Prostate Cancer(176807);Cancer-related,FALSE
+hsa-miR-20a-5p,MIMAT0000075,P40763,STAT3_HUMAN,Reviewed,STAT3,Signal transducer and activator of transcription 3,miTarBase,Prostate Cancer(176807);Cancer-related,FALSE
+hsa-miR-20b-5p,MIMAT0001413,P40763,STAT3_HUMAN,Reviewed,STAT3,Signal transducer and activator of transcription 3,miTarBase,Prostate Cancer(176807);Cancer-related,FALSE
+hsa-miR-21-5p,MIMAT0000076,P40763,STAT3_HUMAN,Reviewed,STAT3,Signal transducer and activator of transcription 3,miTarBase,Prostate Cancer(176807);Cancer-related,FALSE
+hsa-miR-337-3p,MIMAT0000754,P40763,STAT3_HUMAN,Reviewed,STAT3,Signal transducer and activator of transcription 3,miTarBase,Prostate Cancer(176807);Cancer-related,FALSE
+hsa-miR-92a-3p,MIMAT0000092,P40763,STAT3_HUMAN,Reviewed,STAT3,Signal transducer and activator of transcription 3,miTarBase,Prostate Cancer(176807);Cancer-related,FALSE
+hsa-miR-93-5p,MIMAT0000093,P40763,STAT3_HUMAN,Reviewed,STAT3,Signal transducer and activator of transcription 3,miTarBase,Prostate Cancer(176807);Cancer-related,FALSE
+hsa-miR-125a-5p,MIMAT0000443,Q15831,STK11_HUMAN,Reviewed,STK11,Serine/threonine-protein kinase STK11,miTarBase,Pancreatic Cancer(260350);Lung Cancer(211980);Thyroid Carcinoma Papillary(188550);Ovarian Cancer(167000);Colorectal Cancer(114500);Breast Cancer(114480);Cancer-related,FALSE
+hsa-miR-125b-5p,MIMAT0000423,Q15831,STK11_HUMAN,Reviewed,STK11,Serine/threonine-protein kinase STK11,miTarBase,Pancreatic Cancer(260350);Lung Cancer(211980);Thyroid Carcinoma Papillary(188550);Ovarian Cancer(167000);Colorectal Cancer(114500);Breast Cancer(114480);Cancer-related,FALSE
+hsa-miR-126-3p,MIMAT0000445,Q15831,STK11_HUMAN,Reviewed,STK11,Serine/threonine-protein kinase STK11,miTarBase,Pancreatic Cancer(260350);Lung Cancer(211980);Thyroid Carcinoma Papillary(188550);Ovarian Cancer(167000);Colorectal Cancer(114500);Breast Cancer(114480);Cancer-related,FALSE
+hsa-miR-130b-3p,MIMAT0000691,Q15831,STK11_HUMAN,Reviewed,STK11,Serine/threonine-protein kinase STK11,miTarBase,Pancreatic Cancer(260350);Lung Cancer(211980);Thyroid Carcinoma Papillary(188550);Ovarian Cancer(167000);Colorectal Cancer(114500);Breast Cancer(114480);Cancer-related,FALSE
+hsa-miR-17-5p,MIMAT0000070,Q15831,STK11_HUMAN,Reviewed,STK11,Serine/threonine-protein kinase STK11,miTarBase,Pancreatic Cancer(260350);Lung Cancer(211980);Thyroid Carcinoma Papillary(188550);Ovarian Cancer(167000);Colorectal Cancer(114500);Breast Cancer(114480);Cancer-related,FALSE
+hsa-miR-93-5p,MIMAT0000093,Q15831,STK11_HUMAN,Reviewed,STK11,Serine/threonine-protein kinase STK11,miTarBase,Pancreatic Cancer(260350);Lung Cancer(211980);Thyroid Carcinoma Papillary(188550);Ovarian Cancer(167000);Colorectal Cancer(114500);Breast Cancer(114480);Cancer-related,FALSE
+hsa-let-7b-5p,MIMAT0000063,Q8NEM7,SP20H_HUMAN,Reviewed,SUPT20H,Transcription factor SPT20 homolog,miTarBase,N/A,FALSE
+hsa-miR-615-3p,MIMAT0003283,Q8NEM7,SP20H_HUMAN,Reviewed,SUPT20H,Transcription factor SPT20 homolog,miTarBase,N/A,FALSE
+hsa-miR-200c-3p,MIMAT0000617,Q9UHD2,TBK1_HUMAN,Reviewed,TBK1,Serine/threonine-protein kinase TBK1,miTarBase,Cancer-related,FALSE
+hsa-miR-221-3p,MIMAT0000278,Q9UHD2,TBK1_HUMAN,Reviewed,TBK1,Serine/threonine-protein kinase TBK1,miTarBase,Cancer-related,FALSE
+hsa-miR-93-3p,MIMAT0004509,Q86UE8,TLK2_HUMAN,Reviewed,TLK2,Serine/threonine-protein kinase tousled-like 2,miTarBase,N/A,FALSE
+hsa-miR-101-3p,MIMAT0000099,Q8IY95,TM192_HUMAN,Reviewed,TMEM192,Transmembrane protein 192,miTarBase,N/A,FALSE
+hsa-miR-181a-5p,MIMAT0000256,Q8IY95,TM192_HUMAN,Reviewed,TMEM192,Transmembrane protein 192,miTarBase,N/A,FALSE
+hsa-miR-30a-5p,MIMAT0000087,Q8IY95,TM192_HUMAN,Reviewed,TMEM192,Transmembrane protein 192,miTarBase,N/A,FALSE
+hsa-mir-1285,MIMAT0005876,P04637,P53_HUMAN,Reviewed,TP53,Cellular tumor antigen p53,miTarBase,Breast Cancer(114480);Hepatocelluar Carcinoma(114550);Pancreatic Cancer(260350);Colorectal Cancer(114500);Ovarian Cancer(167000);Prostate Cancer(176807);Lung Cancer(211980);Nasopharyngeal Carcinoma(607107);Bladder Cancer(109800);Cervical Cancer(603956);Thyroid Carcinoma Papillary(188550),FALSE
+hsa-miR-221,MI0000298,P04637,P53_HUMAN,Reviewed,TP53,Cellular tumor antigen p53,miTarBase,Breast Cancer(114480);Hepatocelluar Carcinoma(114550);Pancreatic Cancer(260350);Colorectal Cancer(114500);Ovarian Cancer(167000);Prostate Cancer(176807);Lung Cancer(211980);Nasopharyngeal Carcinoma(607107);Bladder Cancer(109800);Cervical Cancer(603956);Thyroid Carcinoma Papillary(188550),FALSE
+hsa-miR-222,MI0000299,P04637,P53_HUMAN,Reviewed,TP53,Cellular tumor antigen p53,miTarBase,Breast Cancer(114480);Hepatocelluar Carcinoma(114550);Pancreatic Cancer(260350);Colorectal Cancer(114500);Ovarian Cancer(167000);Prostate Cancer(176807);Lung Cancer(211980);Nasopharyngeal Carcinoma(607107);Bladder Cancer(109800);Cervical Cancer(603956);Thyroid Carcinoma Papillary(188550),FALSE
+hsa-miR-26a-1,MI0000083,P04637,P53_HUMAN,Reviewed,TP53,Cellular tumor antigen p53,miTarBase,Breast Cancer(114480);Hepatocelluar Carcinoma(114550);Pancreatic Cancer(260350);Colorectal Cancer(114500);Ovarian Cancer(167000);Prostate Cancer(176807);Lung Cancer(211980);Nasopharyngeal Carcinoma(607107);Bladder Cancer(109800);Cervical Cancer(603956);Thyroid Carcinoma Papillary(188550),FALSE
+hsa-miR-30d,MI0000254,P04637,P53_HUMAN,Reviewed,TP53,Cellular tumor antigen p53,miTarBase,Breast Cancer(114480);Hepatocelluar Carcinoma(114550);Pancreatic Cancer(260350);Colorectal Cancer(114500);Ovarian Cancer(167000);Prostate Cancer(176807);Lung Cancer(211980);Nasopharyngeal Carcinoma(607107);Bladder Cancer(109800);Cervical Cancer(603956);Thyroid Carcinoma Papillary(188550),FALSE
+hsa-miR-34a,MI0000268,P04637,P53_HUMAN,Reviewed,TP53,Cellular tumor antigen p53,miTarBase,Breast Cancer(114480);Hepatocelluar Carcinoma(114550);Pancreatic Cancer(260350);Colorectal Cancer(114500);Ovarian Cancer(167000);Prostate Cancer(176807);Lung Cancer(211980);Nasopharyngeal Carcinoma(607107);Bladder Cancer(109800);Cervical Cancer(603956);Thyroid Carcinoma Papillary(188550),FALSE
+hsa-mir-504,MI0003189,P04637,P53_HUMAN,Reviewed,TP53,Cellular tumor antigen p53,miTarBase,Breast Cancer(114480);Hepatocelluar Carcinoma(114550);Pancreatic Cancer(260350);Colorectal Cancer(114500);Ovarian Cancer(167000);Prostate Cancer(176807);Lung Cancer(211980);Nasopharyngeal Carcinoma(607107);Bladder Cancer(109800);Cervical Cancer(603956);Thyroid Carcinoma Papillary(188550),FALSE
+hsa-mir-504,MI0003189,P04637,P53_HUMAN,Reviewed,TP53,Cellular tumor antigen p53,miTarBase,Breast Cancer(114480);Hepatocelluar Carcinoma(114550);Pancreatic Cancer(260350);Colorectal Cancer(114500);Ovarian Cancer(167000);Prostate Cancer(176807);Lung Cancer(211980);Nasopharyngeal Carcinoma(607107);Bladder Cancer(109800);Cervical Cancer(603956);Thyroid Carcinoma Papillary(188550),FALSE
+hsa-miR-663a,MI0003672,P04637,P53_HUMAN,Reviewed,TP53,Cellular tumor antigen p53,miTarBase,Breast Cancer(114480);Hepatocelluar Carcinoma(114550);Pancreatic Cancer(260350);Colorectal Cancer(114500);Ovarian Cancer(167000);Prostate Cancer(176807);Lung Cancer(211980);Nasopharyngeal Carcinoma(607107);Bladder Cancer(109800);Cervical Cancer(603956);Thyroid Carcinoma Papillary(188550),FALSE
+hsa-miR-663a,MI0003672,P04637,P53_HUMAN,Reviewed,TP53,Cellular tumor antigen p53,miTarBase,Breast Cancer(114480);Hepatocelluar Carcinoma(114550);Pancreatic Cancer(260350);Colorectal Cancer(114500);Ovarian Cancer(167000);Prostate Cancer(176807);Lung Cancer(211980);Nasopharyngeal Carcinoma(607107);Bladder Cancer(109800);Cervical Cancer(603956);Thyroid Carcinoma Papillary(188550),FALSE
+hsa-miR-663b,MI0006336,P04637,P53_HUMAN,Reviewed,TP53,Cellular tumor antigen p53,miTarBase,Breast Cancer(114480);Hepatocelluar Carcinoma(114550);Pancreatic Cancer(260350);Colorectal Cancer(114500);Ovarian Cancer(167000);Prostate Cancer(176807);Lung Cancer(211980);Nasopharyngeal Carcinoma(607107);Bladder Cancer(109800);Cervical Cancer(603956);Thyroid Carcinoma Papillary(188550),FALSE
+hsa-miR-663b,MI0006336,P04637,P53_HUMAN,Reviewed,TP53,Cellular tumor antigen p53,miTarBase,Breast Cancer(114480);Hepatocelluar Carcinoma(114550);Pancreatic Cancer(260350);Colorectal Cancer(114500);Ovarian Cancer(167000);Prostate Cancer(176807);Lung Cancer(211980);Nasopharyngeal Carcinoma(607107);Bladder Cancer(109800);Cervical Cancer(603956);Thyroid Carcinoma Papillary(188550),FALSE
+hsa-mir-92a-1,MI0000093,P04637,P53_HUMAN,Reviewed,TP53,Cellular tumor antigen p53,miTarBase,Breast Cancer(114480);Hepatocelluar Carcinoma(114550);Pancreatic Cancer(260350);Colorectal Cancer(114500);Ovarian Cancer(167000);Prostate Cancer(176807);Lung Cancer(211980);Nasopharyngeal Carcinoma(607107);Bladder Cancer(109800);Cervical Cancer(603956);Thyroid Carcinoma Papillary(188550),FALSE
+hsa-miR-124-3p,MIMAT0000422,Q96A56,T53I1_HUMAN,Reviewed,TP53INP1,Tumor protein p53-inducible nuclear protein 1,miTarBase,Pancreatic Cancer(260350),FALSE
+hsa-miR-125b-5p,MIMAT0000423,Q96A56,T53I1_HUMAN,Reviewed,TP53INP1,Tumor protein p53-inducible nuclear protein 1,miTarBase,Pancreatic Cancer(260350),FALSE
+hsa-miR-130b-3p,MIMAT0000691,Q96A56,T53I1_HUMAN,Reviewed,TP53INP1,Tumor protein p53-inducible nuclear protein 1,miTarBase,Pancreatic Cancer(260350),FALSE
+hsa-miR-26a-5p,MIMAT0000082,Q96A56,T53I1_HUMAN,Reviewed,TP53INP1,Tumor protein p53-inducible nuclear protein 1,miTarBase,Pancreatic Cancer(260350),FALSE
+hsa-miR-335-5p,MIMAT0000765,Q96A56,T53I1_HUMAN,Reviewed,TP53INP1,Tumor protein p53-inducible nuclear protein 1,miTarBase,Pancreatic Cancer(260350),FALSE
+hsa-miR-93-5p,MIMAT0000093,Q96A56,T53I1_HUMAN,Reviewed,TP53INP1,Tumor protein p53-inducible nuclear protein 1,miTarBase,Pancreatic Cancer(260350),FALSE
+hsa-miR-142,MI0000458,Q8IXH6,T53I2_HUMAN,Reviewed,TP53INP2,Tumor protein p53-inducible nuclear protein 2,miTarBase,N/A,FALSE
+hsa-miR-155-5p,MIMAT0000646,Q8IXH6,T53I2_HUMAN,Reviewed,TP53INP2,Tumor protein p53-inducible nuclear protein 2,miTarBase,N/A,FALSE
+hsa-miR-26b-5p,MIMAT0000083,O60858,TRI13_HUMAN,Reviewed,TRIM13,E3 ubiquitin-protein ligase TRIM13,miTarBase,Cancer-related,FALSE
+hsa-miR-16-5p,MIMAT0000069,O75385,ULK1_HUMAN,Reviewed,ULK1,Serine/threonine-protein kinase ULK1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-186-5p,MIMAT0000456,O75385,ULK1_HUMAN,Reviewed,ULK1,Serine/threonine-protein kinase ULK1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-22-3p,MIMAT0000077,O75385,ULK1_HUMAN,Reviewed,ULK1,Serine/threonine-protein kinase ULK1,miTarBase,Breast Cancer(114480),FALSE
+hsa-mir-301a,MI0000745,O75385,ULK1_HUMAN,Reviewed,ULK1,Serine/threonine-protein kinase ULK1,miTarBase,Breast Cancer(114480),FALSE
+hsa-mir-301a,MI0000745,O75385,ULK1_HUMAN,Reviewed,ULK1,Serine/threonine-protein kinase ULK1,miTarBase,Breast Cancer(114480),FALSE
+hsa-mir-301b,MI0005568,O75385,ULK1_HUMAN,Reviewed,ULK1,Serine/threonine-protein kinase ULK1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-320a,MI0000542,O75385,ULK1_HUMAN,Reviewed,ULK1,Serine/threonine-protein kinase ULK1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-335-5p,MIMAT0000765,O75385,ULK1_HUMAN,Reviewed,ULK1,Serine/threonine-protein kinase ULK1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-423-5p,MIMAT0004748,O75385,ULK1_HUMAN,Reviewed,ULK1,Serine/threonine-protein kinase ULK1,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-454,MI0003820,O75385,ULK1_HUMAN,Reviewed,ULK1,Serine/threonine-protein kinase ULK1,miTarBase,Breast Cancer(114480),FALSE
+hsa-mir-301a,MI0000745,Q8IYT8,ULK2_HUMAN,Reviewed,ULK2,Serine/threonine-protein kinase ULK2,miTarBase,N/A,FALSE
+hsa-mir-301a,MI0000745,Q8IYT8,ULK2_HUMAN,Reviewed,ULK2,Serine/threonine-protein kinase ULK2,miTarBase,N/A,FALSE
+hsa-mir-301b,MI0005568,Q8IYT8,ULK2_HUMAN,Reviewed,ULK2,Serine/threonine-protein kinase ULK2,miTarBase,N/A,FALSE
+hsa-miR-335-5p,MIMAT0000765,Q8IYT8,ULK2_HUMAN,Reviewed,ULK2,Serine/threonine-protein kinase ULK2,miTarBase,N/A,FALSE
+hsa-miR-454,MI0003820,Q8IYT8,ULK2_HUMAN,Reviewed,ULK2,Serine/threonine-protein kinase ULK2,miTarBase,N/A,FALSE
+hsa-let-7b-5p,MIMAT0000063,Q14694,UBP10_HUMAN,Reviewed,USP10,Ubiquitin carboxyl-terminal hydrolase 10,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-122-5p,MIMAT0000421,Q14694,UBP10_HUMAN,Reviewed,USP10,Ubiquitin carboxyl-terminal hydrolase 10,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-124-3p,MIMAT0000422,Q14694,UBP10_HUMAN,Reviewed,USP10,Ubiquitin carboxyl-terminal hydrolase 10,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-181b-5p,MIMAT0000257,Q14694,UBP10_HUMAN,Reviewed,USP10,Ubiquitin carboxyl-terminal hydrolase 10,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-20a-5p,MIMAT0000075,Q14694,UBP10_HUMAN,Reviewed,USP10,Ubiquitin carboxyl-terminal hydrolase 10,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-24-3p,MIMAT0000080,Q14694,UBP10_HUMAN,Reviewed,USP10,Ubiquitin carboxyl-terminal hydrolase 10,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-375,MI0000783,Q14694,UBP10_HUMAN,Reviewed,USP10,Ubiquitin carboxyl-terminal hydrolase 10,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-455-3p,MIMAT0004784,Q14694,UBP10_HUMAN,Reviewed,USP10,Ubiquitin carboxyl-terminal hydrolase 10,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-652-3p,MIMAT0003322,Q14694,UBP10_HUMAN,Reviewed,USP10,Ubiquitin carboxyl-terminal hydrolase 10,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-92a-3p,MIMAT0000092,Q14694,UBP10_HUMAN,Reviewed,USP10,Ubiquitin carboxyl-terminal hydrolase 10,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-98,MI0000100,Q14694,UBP10_HUMAN,Reviewed,USP10,Ubiquitin carboxyl-terminal hydrolase 10,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-98-5p,MIMAT0000096,Q14694,UBP10_HUMAN,Reviewed,USP10,Ubiquitin carboxyl-terminal hydrolase 10,miTarBase,Breast Cancer(114480),FALSE
+hsa-miR-1,MIMAT0000416,Q96GC9,VMP1_HUMAN,Reviewed,VMP1,Vacuole membrane protein 1,miTarBase,Lung Cancer(211980),FALSE
+hsa-miR-16-5p,MIMAT0000069,Q96GC9,VMP1_HUMAN,Reviewed,VMP1,Vacuole membrane protein 1,miTarBase,Lung Cancer(211980),FALSE
+hsa-miR-210-3p,MIMAT0000267,Q96GC9,VMP1_HUMAN,Reviewed,VMP1,Vacuole membrane protein 1,miTarBase,Lung Cancer(211980),FALSE
+hsa-miR-25-3p,MIMAT0000081,Q96GC9,VMP1_HUMAN,Reviewed,VMP1,Vacuole membrane protein 1,miTarBase,Lung Cancer(211980),FALSE
+hsa-miR-296-3p,MIMAT0004679,Q96GC9,VMP1_HUMAN,Reviewed,VMP1,Vacuole membrane protein 1,miTarBase,Lung Cancer(211980),FALSE
+hsa-miR-15b-5p,MIMAT0000417,Q96RL7,VP13A_HUMAN,Reviewed,VPS13A,Vacuolar protein sorting-associated protein 13A,miTarBase,Gastric Cancer(137215);Hepatocelluar Carcinoma(114550),FALSE
+hsa-miR-21-5p,MIMAT0000076,Q96RL7,VP13A_HUMAN,Reviewed,VPS13A,Vacuolar protein sorting-associated protein 13A,miTarBase,Gastric Cancer(137215);Hepatocelluar Carcinoma(114550),FALSE
+hsa-miR-186-5p,MIMAT0000456,Q7Z7G8,VP13B_HUMAN,Reviewed,VPS13B,Vacuolar protein sorting-associated protein 13B,miTarBase,N/A,FALSE
+hsa-miR-30e-5p,MIMAT0000692,Q7Z7G8,VP13B_HUMAN,Reviewed,VPS13B,Vacuolar protein sorting-associated protein 13B,miTarBase,N/A,FALSE
+hsa-miR-335-5p,MIMAT0000765,Q7Z7G8,VP13B_HUMAN,Reviewed,VPS13B,Vacuolar protein sorting-associated protein 13B,miTarBase,N/A,FALSE
+hsa-miR-128,MIMAT0000424,Q709C8,VP13C_HUMAN,Reviewed,VPS13C,Vacuolar protein sorting-associated protein 13C,miTarBase,Cancer-related,FALSE
+hsa-miR-128-3p,MIMAT0000424,Q709C8,VP13C_HUMAN,Reviewed,VPS13C,Vacuolar protein sorting-associated protein 13C,miTarBase,Cancer-related,FALSE
+hsa-miR-186-5p,MIMAT0000456,Q709C8,VP13C_HUMAN,Reviewed,VPS13C,Vacuolar protein sorting-associated protein 13C,miTarBase,Cancer-related,FALSE
+hsa-miR-192-5p,MIMAT0000222,Q709C8,VP13C_HUMAN,Reviewed,VPS13C,Vacuolar protein sorting-associated protein 13C,miTarBase,Cancer-related,FALSE
+hsa-miR-215-5p,MIMAT0000272,Q709C8,VP13C_HUMAN,Reviewed,VPS13C,Vacuolar protein sorting-associated protein 13C,miTarBase,Cancer-related,FALSE
+hsa-miR-26b-5p,MIMAT0000083,Q709C8,VP13C_HUMAN,Reviewed,VPS13C,Vacuolar protein sorting-associated protein 13C,miTarBase,Cancer-related,FALSE
+hsa-miR-326,MI0000808,Q709C8,VP13C_HUMAN,Reviewed,VPS13C,Vacuolar protein sorting-associated protein 13C,miTarBase,Cancer-related,FALSE
+hsa-miR-378a-3p,MIMAT0000732,Q709C8,VP13C_HUMAN,Reviewed,VPS13C,Vacuolar protein sorting-associated protein 13C,miTarBase,Cancer-related,FALSE
+hsa-let-7b-5p,MIMAT0000063,Q9UID3,VPS51_HUMAN,Reviewed,VPS51,Vacuolar protein sorting-associated protein 51 homolog,miTarBase,N/A,FALSE
+hsa-miR-182-5p,MIMAT0000259,Q9UID3,VPS51_HUMAN,Reviewed,VPS51,Vacuolar protein sorting-associated protein 51 homolog,miTarBase,N/A,FALSE
+hsa-miR-324-5p,MIMAT0000761,Q9UID3,VPS51_HUMAN,Reviewed,VPS51,Vacuolar protein sorting-associated protein 51 homolog,miTarBase,N/A,FALSE
+hsa-miR-15b-5p,MIMAT0000417,Q9BTA9,WAC_HUMAN,Reviewed,WAC,WW domain-containing adapter protein with coiled-coil,miTarBase,N/A,FALSE
+hsa-miR-17-5p,MIMAT0000070,Q9BTA9,WAC_HUMAN,Reviewed,WAC,WW domain-containing adapter protein with coiled-coil,miTarBase,N/A,FALSE
+hsa-miR-18a-3p,MIMAT0002891,Q9BTA9,WAC_HUMAN,Reviewed,WAC,WW domain-containing adapter protein with coiled-coil,miTarBase,N/A,FALSE
+hsa-miR-18a-5p,MIMAT0000072,Q9BTA9,WAC_HUMAN,Reviewed,WAC,WW domain-containing adapter protein with coiled-coil,miTarBase,N/A,FALSE
+hsa-miR-18b-5p,MIMAT0001412,Q9BTA9,WAC_HUMAN,Reviewed,WAC,WW domain-containing adapter protein with coiled-coil,miTarBase,N/A,FALSE
+hsa-miR-20a-5p,MIMAT0000075,Q9BTA9,WAC_HUMAN,Reviewed,WAC,WW domain-containing adapter protein with coiled-coil,miTarBase,N/A,FALSE
+hsa-miR-484,MI0002468,Q9BTA9,WAC_HUMAN,Reviewed,WAC,WW domain-containing adapter protein with coiled-coil,miTarBase,N/A,FALSE
+hsa-miR-7-5p,MIMAT0000252,Q9BTA9,WAC_HUMAN,Reviewed,WAC,WW domain-containing adapter protein with coiled-coil,miTarBase,N/A,FALSE
+hsa-miR-93-5p,MIMAT0000093,Q9BTA9,WAC_HUMAN,Reviewed,WAC,WW domain-containing adapter protein with coiled-coil,miTarBase,N/A,FALSE
+hsa-miR-7-5p,MIMAT0000252,Q9Y484,WIPI4_HUMAN,Reviewed,WDR45,WD repeat domain phosphoinositide-interacting protein 4,miTarBase,Renal Cell Carcinoma(144700);Pancreatic Cancer(260350),FALSE
+hsa-miR-744-5p,MIMAT0004945,Q5MNZ6,WIPI3_HUMAN,Reviewed,WDR45B,WD repeat domain phosphoinositide-interacting protein 3,miTarBase,Ovarian Cancer(167000);Cancer-related,FALSE
+hsa-miR-766-3p,MIMAT0003888,Q5MNZ6,WIPI3_HUMAN,Reviewed,WDR45B,WD repeat domain phosphoinositide-interacting protein 3,miTarBase,Ovarian Cancer(167000);Cancer-related,FALSE
+hsa-miR-506,MI0003193,Q5MNZ9,WIPI1_HUMAN,Reviewed,WIPI1,WD repeat domain phosphoinositide-interacting protein 1,miTarBase,Cancer-related,FALSE
+hsa-let-7a-5p,MIMAT0000062,Q9Y4P8,WIPI2_HUMAN,Reviewed,WIPI2,WD repeat domain phosphoinositide-interacting protein 2,miTarBase,Renal Cell Carcinoma(144700);Pancreatic Cancer(260350),FALSE
+hsa-miR-505-5p,MIMAT0004776,Q9Y4P8,WIPI2_HUMAN,Reviewed,WIPI2,WD repeat domain phosphoinositide-interacting protein 2,miTarBase,Renal Cell Carcinoma(144700);Pancreatic Cancer(260350),FALSE
+hsa-miR-615-3p,MIMAT0003283,Q9Y4P8,WIPI2_HUMAN,Reviewed,WIPI2,WD repeat domain phosphoinositide-interacting protein 2,miTarBase,Renal Cell Carcinoma(144700);Pancreatic Cancer(260350),FALSE
+hsa-miR-335-5p,MIMAT0000765,Q5D1E8,ZC12A_HUMAN,Reviewed,ZC3H12A,Ribonuclease ZC3H12A,miTarBase,N/A,FALSE
+hsa-miR-652-3p,MIMAT0003322,Q5D1E8,ZC12A_HUMAN,Reviewed,ZC3H12A,Ribonuclease ZC3H12A,miTarBase,N/A,FALSE
+hsa-miR-125b-5p,MIMAT0000423,Q9HBF4,ZFYV1_HUMAN,Reviewed,ZFYVE1,Zinc finger FYVE domain-containing protein 1,miTarBase,N/A,FALSE
+hsa-miR-335-5p,MIMAT0000765,Q9HBF4,ZFYV1_HUMAN,Reviewed,ZFYVE1,Zinc finger FYVE domain-containing protein 1,miTarBase,N/A,FALSE
+hsa-miR-26b-5p,MIMAT0000083,Q9BRR0,ZKSC3_HUMAN,Reviewed,ZKSCAN3,Zinc finger protein with KRAB and SCAN domains 3,miTarBase,Hepatocelluar Carcinoma(114550),FALSE

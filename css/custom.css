@@ -60,3 +60,8 @@ table.search-result td
 	padding: 0 2pt;
 	word-wrap: break-word;
 }
+
+.bold
+{
+font-weight:bold;
+}

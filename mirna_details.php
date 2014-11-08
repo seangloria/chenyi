@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Search</title>
+		<title>Search Details</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -128,19 +128,19 @@
 							<!-- Portfolio -->
 								<section>
 								<header class="major">
-										<h2>Search</h2>
+										<h2>Details</h2>
 									</header>
 									<div>
 									<?php
 									$inputKeyword = '';
-									if(isset($_POST['keywords']))
+									if(isset($_POST['id']))
 									{
-								    	$inputKeyword = $_POST['keywords'];
+								    	$inputKeyword = $_POST['id'];
 									}
 									else
 									{
-									  if(isset($_GET['keywords']))
-									  $inputKeyword = $_GET['keywords'];
+									  if(isset($_GET['id']))
+									  $inputKeyword = $_GET['id'];
 									}
 									?>
 										<div class="row">
@@ -148,22 +148,9 @@
 											<article class="box is-post">
 												<!-- Search form -->
 
-												<form action="search.php" name="search" method="post">
-														<div class="row">
-															<div class="6u">
-																<label for="keywords" class="form_field">Keywords</label> 
-															</div>
-															<div class="6u">
-														    	<input type="text" class="input_field" name="keywords" value="<?php echo $inputKeyword ?>" id="keywords">
-															</div>													    
-														</div>
+								
 														<div class="clear"></div>
-													    <div class="right">									 																																		
-															<input type="submit" value="Search" id="submit" name="submit" class="button">
-														</div>
-														<div class="right">( <strong>* </strong>:
-<span style="font-style: italic;">predictions )&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></div>
-														<div class="clear"></div>
+														<a href='search.php'>Back</a>
 														<?php 
 														$dbhost = 'localhost:3036';
 														$dbuser = 'seanli';
@@ -183,117 +170,70 @@
 														}
 														else
 														{
-														   $query = "SELECT * FROM miRNA_Search_Disease where id like '%".$inputKeyword."%' "
-															. " or access like '%".$inputKeyword."%' "
-															. " or AC like '%".$inputKeyword."%' "
-															. " or protein like '%".$inputKeyword."%' "
-															. " or status like '%".$inputKeyword."%' "
-															. " or gene like '%".$inputKeyword."%' "
-															. " or fullName like '%".$inputKeyword."%' "
-															. " or source like '%".$inputKeyword."%' ";
+														   $query = "SELECT * FROM chenlab.miRNA_Search_Disease where id = '".$inputKeyword."' ";															
 														}
 														 $result=mysql_query($query,$conn); 
 														 ?>
-														,
+												
 														 <table class="search-result">
-															 <tr>
-															  <th>
+					
 																
-																 </th>
-																 <th>
-																id
-																 </th>
-																  <th>
-																  Access
-																 </th>
-																  <th>
-																 AC
-																 </th>
-																  
-																  <!-- <th>
-																  miRNA description
-																 </th>-->
-																   <th>
-																Protein
-																 </th>
-																   <th>
-																 Status
-																 </th>
-															
-																   <th>
-																Gene
-																 </th>
-																   <th>
-																 Full Name
-																 </th>
-																   <th>
-																Source
-																 </th>
-																
-																
-																 <!--  <th>
-																 // cancer_desc
-																 // </th>
-																  // <th>
-																 // mirRNA_function
-																 // </th>
-																  // <th>
-																 // cancer_function
-																 // </th>
-																
-																  // <th>
-																 // autophagy_type
-																 // </th>
-															   </tr>-->
+													<tr><th style="width:30%"> &nbsp;</th><th style="width:70%"> &nbsp;</th></tr>
 																  <?php
-																  if(isset($_POST['keywords']))
-																  {
+																		$count = 1;
 																		  //-create  while loop and loop through result set 
 																		while($row=mysql_fetch_array($result)){ 
+																		if($count > 1)
+																		{
+																	     	break;
+																		}
 																		$miRNA_ID  =$row['id']; 
 																		$access=$row['access']; 
-																		$AC=$row['AC']; 
-																		$knowStr =  "<strong>&nbsp;&nbsp;</strong>";
+																		$symbol=$row['AC']; 
+																		
+																		$predicted =  "False";
 																	    if($row['known']=="0")
 																		{
-																			$knowStr = "<strong>*&nbsp;</strong>";
+																			$predicted = "True";
 																		}
 																		
-																		
-																		$miRNA_description  =$row['description']; 
-															
+																	
 																		//-display the result of the array 
 																		echo "<tr>"; 
-																		echo " <td>"  .$knowStr  . " </td>\n"; 
-																		echo " <td> <a href='mirna_details.php?id=" .$miRNA_ID ."'>"  .$miRNA_ID  . "</a> </td>\n"; 
-																		echo " <td>"  .$access  . " </td>\n"; 
-																		echo " <td>"  .$AC  . " </td>\n"; 
-																		
-																		
-																		// echo " <td>"  .$miRNA_description  . " </td>\n"; 	
-																		echo " <td>"  .$row['protein']  . " </td>\n"; 
-																		echo " <td>"  .$row['status']  . " </td>\n"; 
-											
-																		echo " <td>"  .$row['gene']  . " </td>\n"; 
-																		echo " <td>"  .$row['fullName']  . " </td>\n"; 		
-																		echo " <td>"  .$row['source']  . " </td>\n"; 		
-
-																		
-																	
-													             
-																			
+																		echo "<td  class='bold'>id &nbsp; &nbsp;</td> <td>"  .$miRNA_ID  . "</td>\n"; 
 																		echo "</tr>"; 
+																		echo "<tr>";
+																		echo "<td  class='bold'>Access &nbsp; &nbsp;</td> <td>"  .$access  . " </td>\n"; 
+																		echo "</tr>"; 
+																		echo "<tr>";
+																		echo "<td  class='bold'>AC &nbsp; &nbsp;</td> <td>"  .$symbol  . " </td>\n"; 
+																		echo "</tr>"; 
+																		
+																		echo "<tr>";
+																		// echo " <td>"  .$miRNA_description  . " </td>\n"; 	
+																		echo "<td  class='bold'>Protein &nbsp; &nbsp;</td> <td>"  .$row['protein']  . " </td>\n"; echo "</tr>"; 
+																		echo "<tr>"; echo "<td  class='bold'>Status &nbsp; &nbsp;</td> <td>"  .$row['status']  . " </td>\n"; echo "</tr>"; 
+											
+																		echo "<tr>"; echo " <td  class='bold'>Gene &nbsp; &nbsp;</td><td>"  .$row['gene']  . " </td>\n"; echo "</tr>"; 
+																		echo "<tr>"; echo " <td  class='bold'>Full Name &nbsp; &nbsp;</td><td>"  .$row['fullName']  . " </td>\n"; 	echo "</tr>"; 	
+																		echo "<tr>"; echo " <td  class='bold'>Source &nbsp; &nbsp;</td><td>"  .$row['source']  . " </td>\n"; 	echo "</tr>"; 	
+
+
+																		echo "<tr>"; echo " <td  class='bold'>Disease &nbsp; &nbsp;</td><td>"  .$row['disease']  . " </td>\n"; echo "</tr>"; 
+													                
+																		echo "<tr>"; echo "<td  class='bold'>Predicted &nbsp; &nbsp;</td> <td>"  .$predicted  . " </td>\n"; echo "</tr>";  
+																		
+																	  
 															
 																 
-																  }
+																     $count = $count +1;
 																  }
 																
 																	mysql_close($conn);
 																?>
 														 </table>
-														<strong>* </strong>:
-<span style="font-style: italic;">predictions </span>
-												</form>
+														
+												
 												</article>
 												<!-- Content -->
 												<!-- 
